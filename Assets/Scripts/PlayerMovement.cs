@@ -25,34 +25,39 @@ public class PlayerMovement : MonoBehaviour
     bool crouch;
     bool canMove = false;
     public float startUpPlayer = 0.15f;
+    public Vector3 currCamPos;
+    public GameObject cam;
 
     private void Start(){
         speedLines.SetActive(false);
         StartCoroutine(FreezePlayer());
-    }
-
-    IEnumerator FreezePlayer() {
-        yield return new WaitForSeconds(startUpPlayer);
-        canMove = true;
+        currCamPos = GetComponentInChildren<Transform>().localPosition;
+        
     }
 
     // Update is called once per frame
     void Update(){
         BasicMovement();
         DashTemp();
+        /*Debug.Log(Input.GetAxis("Horizontal"));
+        if (Input.GetAxis("Horizontal") != 0){
+
+            Vector3 newCamPos = currCamPos + new Vector3(6f * Input.GetAxis("Horizontal") , 0f,0f);
+            currCamPos = newCamPos;
+            Debug.Log(newCamPos);
+            Debug.Log("player is moving");
+        }*/
     }
 
     private void FixedUpdate(){
         controler.Move(horizontalMove * Time.fixedDeltaTime, crouch, jump);
         jump = false;
         Attacking();
-
     }
 
     private void BasicMovement(){
         //set animation to speed of length of horizonatl press
-        if (canMove)
-        {
+        if (canMove){
             anim.SetFloat("Speed", Mathf.Abs(horizontalMove));
             //check if jump or crouch button were pressed
             if (Input.GetButtonDown("Jump") ){
@@ -67,7 +72,6 @@ public class PlayerMovement : MonoBehaviour
                 crouch = false;
             }
             horizontalMove = Input.GetAxisRaw("Horizontal") * runSpeed;
-
 
         }
     }
@@ -85,6 +89,14 @@ public class PlayerMovement : MonoBehaviour
 
     }
 
+    private void Attacking(){
+        atkTimer -= Time.deltaTime;
+        if ((Input.GetKeyDown(KeyCode.L) || Input.GetButtonDown("Slashing")) && atkTimer <= 0){
+            StartCoroutine(Attack());
+            SoundManager.playSwordSlash();
+        }
+    }
+
     //Check for landing or crouching 
     //and change animations accordingly
     public void onLanding()
@@ -96,13 +108,10 @@ public class PlayerMovement : MonoBehaviour
         anim.SetBool("isCrouching", isCrouching);
     }
 
-    private void Attacking(){
-        atkTimer -= Time.deltaTime;
-        if ((Input.GetKeyDown(KeyCode.L) || Input.GetButtonDown("Slashing")) && atkTimer <= 0){
-            StartCoroutine(Attack());
-            SoundManager.playSwordSlash();
-        }
-
+    //Freeeze player movement when entering new level
+    IEnumerator FreezePlayer(){
+        yield return new WaitForSeconds(startUpPlayer);
+        canMove = true;
     }
 
     IEnumerator Attack(){
@@ -119,26 +128,15 @@ public class PlayerMovement : MonoBehaviour
     }
 
     // show speed lines when dashing and turn off afterward
-    IEnumerator TurnOn()
-    {
+    IEnumerator TurnOn(){
         yield return new WaitForSeconds(dashLineOnTime);
         speedLines.SetActive(true);
         yield return new WaitForSeconds(dashLineOffTime);
         speedLines.SetActive(false);
     }
 
-
 }
 
     /*
-    public GameObject camera;
-    Transform camTransform;
-    public float smoothCamSpeed = 0.125f;
-    public Vector3 offset;
-    Transform playerPos;
 
-    camTransform = camera.GetComponent<Transform>();
-
-    Vector3 desiredPos = playerPos.position + offset;
-    Vector3 smoothedPos = Vector3.Lerp (camTransform.position,desiredPos,smoothCamSpeed);
     */

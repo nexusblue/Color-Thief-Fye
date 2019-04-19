@@ -40,6 +40,9 @@ public class ColorCheck : MonoBehaviour{
         //update stealth text and player color 
         playerColor = GetComponent<SpriteRenderer>().color;
         stealthLvl.text = "Detection Level:" + Mathf.Round(stealth).ToString();
+        if (stealth <= 0){
+            SceneManager.LoadScene(0);
+        }
     }
 
     private void OnTriggerStay2D(Collider2D collision){

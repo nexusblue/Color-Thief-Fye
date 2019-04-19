@@ -4,6 +4,8 @@ using UnityEngine;
 
 public class PlayerMovement : MonoBehaviour
 {
+    // when adding in slide/ get rid of crouch 
+    //but disable box collider for slide
     public CharacterController2D controler;
     public Animator anim;
     public GameObject speedLines;
@@ -27,7 +29,6 @@ public class PlayerMovement : MonoBehaviour
     private void Start(){
         speedLines.SetActive(false);
         StartCoroutine(FreezePlayer());
-
     }
 
     IEnumerator FreezePlayer() {
@@ -54,21 +55,20 @@ public class PlayerMovement : MonoBehaviour
         {
             anim.SetFloat("Speed", Mathf.Abs(horizontalMove));
             //check if jump or crouch button were pressed
-            if (Input.GetButtonDown("Jump") )
-            {
+            if (Input.GetButtonDown("Jump") ){
                 jump = true;
                 SoundManager.playJumpYell();
                 anim.SetBool("isJumping", true);
             }
-            if (Input.GetButtonDown("Crouch") )  
-            {
+            if (Input.GetButtonDown("Crouch") )  {
                 crouch = true;
             }
-            if (Input.GetButtonUp("Crouch"))
-            {
+            if (Input.GetButtonUp("Crouch")){
                 crouch = false;
             }
             horizontalMove = Input.GetAxisRaw("Horizontal") * runSpeed;
+
+
         }
     }
     
@@ -129,3 +129,16 @@ public class PlayerMovement : MonoBehaviour
 
 
 }
+
+    /*
+    public GameObject camera;
+    Transform camTransform;
+    public float smoothCamSpeed = 0.125f;
+    public Vector3 offset;
+    Transform playerPos;
+
+    camTransform = camera.GetComponent<Transform>();
+
+    Vector3 desiredPos = playerPos.position + offset;
+    Vector3 smoothedPos = Vector3.Lerp (camTransform.position,desiredPos,smoothCamSpeed);
+    */

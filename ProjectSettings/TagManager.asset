@@ -9,6 +9,7 @@ TagManager:
   - Spike
   - Spotlight
   - Laser
+  - Collectable
   layers:
   - Default
   - TransparentFX

@@ -5,34 +5,37 @@ using TMPro;
 
 public class Collectable : MonoBehaviour
 {
+    public int scoreValue;
     public TextMeshProUGUI score;
-    public float scoreValue;
 
     public enum Jewels { GREENSTONE, REDSTONE, BLUESTONE };
     public Jewels jewelType;
 
     void Update(){
-        score.text = "Score: " + scoreValue.ToString();
+        Debug.Log(scoreValue);
+
     }
 
     void OnTriggerEnter2D(Collider2D collision){
-        if (collision.gameObject.tag == "Player" )
-        {
+        if (collision.gameObject.tag == "Player" ){
             switch (jewelType){
                 case Jewels.GREENSTONE:
-                    scoreValue = 25;
+                    scoreValue += 50;
+                    score.text = "Score: " + scoreValue.ToString();
                     break;
                 case Jewels.REDSTONE:
-                    scoreValue = 50;
+                    scoreValue += 50;
+                    score.text = "Score: " + scoreValue.ToString();
                     break;
                 case Jewels.BLUESTONE:
-                    scoreValue = 100;
+                    scoreValue += 50;
+                    score.text = "Score: " + scoreValue.ToString();
                     break;
             }
-            scoreValue += scoreValue; 
+            score.text = "Score: " + scoreValue.ToString();
             SoundManager.playCollectSound();
-            //Destroy(gameObject);
+            Destroy(gameObject);
         }
-    }
 
+    }
 }

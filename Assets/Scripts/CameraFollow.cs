@@ -19,7 +19,7 @@ public class CameraFollow : MonoBehaviour
     // Update is called once per frame
     void LateUpdate(){
         Vector3 camPosition2 = transform.localPosition;
-        Debug.Log(transform.localPosition);
+        //Debug.Log(transform.localPosition);
         if (Input.GetAxis("Horizontal") > 0){
             transform.localPosition = new Vector3(6f * Input.GetAxis("Horizontal") * smoothCamSpeed, 1.5f, -10f);
         }

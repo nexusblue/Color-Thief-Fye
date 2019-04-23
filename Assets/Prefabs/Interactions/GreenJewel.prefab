@@ -12,6 +12,7 @@ GameObject:
   - component: {fileID: 3837018928198626286}
   - component: {fileID: 3837018928198626284}
   - component: {fileID: 3837018928198626195}
+  - component: {fileID: 859478835}
   m_Layer: 0
   m_Name: GreenJewel
   m_TagString: Collectable
@@ -94,7 +95,7 @@ Animator:
   m_Controller: {fileID: 9100000, guid: f8fcb6a40d3b04cc6b784c792790b1a2, type: 2}
   m_CullingMode: 0
   m_UpdateMode: 0
-  m_ApplyRootMotion: 0
+  m_ApplyRootMotion: 1
   m_LinearVelocityBlending: 0
   m_WarningMessage: 
   m_HasTransformHierarchy: 1
@@ -113,7 +114,7 @@ BoxCollider2D:
   m_IsTrigger: 1
   m_UsedByEffector: 0
   m_UsedByComposite: 0
-  m_Offset: {x: 0, y: 0}
+  m_Offset: {x: -0.0050697327, y: 0}
   m_SpriteTilingProperty:
     border: {x: 0, y: 0, z: 0, w: 0}
     pivot: {x: 0.5, y: 0.5}
@@ -124,5 +125,19 @@ BoxCollider2D:
     adaptiveTiling: 0
   m_AutoTiling: 0
   serializedVersion: 2
-  m_Size: {x: 1, y: 1}
+  m_Size: {x: 0.64501953, y: 1}
   m_EdgeRadius: 0
+--- !u!114 &859478835
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 3837018928198626287}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 83a84517a4e234b4abb54a413a9b11b0, type: 3}
+  m_Name: 
+  m_EditorClassIdentifier: 
+  score: {fileID: 0}
+  jewelType: 0

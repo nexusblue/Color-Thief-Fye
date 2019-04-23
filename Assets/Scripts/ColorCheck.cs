@@ -4,7 +4,7 @@ using UnityEngine;
 using UnityEngine.SceneManagement;
 using TMPro;
 
-public class ColorCheck : MonoBehaviour{
+public class ColorCheck : MonoBehaviour {
 
     //What to do for this code
     //1. Get player color
@@ -27,22 +27,26 @@ public class ColorCheck : MonoBehaviour{
     //Track player color and stealth text
     Color playerColor;
     public TextMeshProUGUI stealthLvl;
+    public TextMeshProUGUI score;
+    public float scoreValue;
+    public int currentLvl = 0;
 
 
-    void Start(){
+    void Start() {
         //set stealth value and player color to sprite render
         stealth = stealthStart;
         playerColor = GetComponent<SpriteRenderer>().color;
     }
 
 
-    void Update(){
+    void Update() {
         //update stealth text and player color 
         playerColor = GetComponent<SpriteRenderer>().color;
         stealthLvl.text = "Detection Level:" + Mathf.Round(stealth).ToString();
-        if (stealth <= 0){
-            SceneManager.LoadScene(0);
+        if (stealth <= 0) {
+            SceneManager.LoadScene(currentLvl);
         }
+        score.text = "Score:" + scoreValue.ToString();
     }
 
     private void OnTriggerStay2D(Collider2D collision){
@@ -64,10 +68,20 @@ public class ColorCheck : MonoBehaviour{
         if (collision.tag == "Spotlight" && !spotlightColor.Equals(playerColor)){
             stealth = (stealth - (stealthRate * Time.deltaTime));
         }
-        //check for and destroy collectable 
+
+    }
+
+    // for future note refrence collectable script to get multiple jewel types to increase score.
+    private void OnTriggerExit2D(Collider2D collision){
+        //check for and destroy collectable
+        /* 
         if (collision.tag == "Collectable"){
             Destroy(collision.gameObject);
+            scoreValue += 25;
+            
         }
+        */       
     }
+
 
 }

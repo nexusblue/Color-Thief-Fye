@@ -16,6 +16,8 @@ public class SoundManager : MonoBehaviour
     public static AudioClip jumpSound;
     static AudioSource jumpSrc;
 
+    public static AudioClip collectSound;
+    static AudioSource collectSrc;
 
     // Start is called before the first frame update
     void Start()
@@ -31,6 +33,9 @@ public class SoundManager : MonoBehaviour
 
         jumpSound = Resources.Load<AudioClip>("JumpYell");
         jumpSrc = GetComponent<AudioSource>();
+
+        collectSound = Resources.Load<AudioClip>("CollectSound");
+        collectSrc = GetComponent<AudioSource>();
     }
 
     public static void playColorShift()
@@ -50,6 +55,11 @@ public class SoundManager : MonoBehaviour
     public static void playJumpYell()
     {
         jumpSrc.PlayOneShot(jumpSound);
+    }
+
+    public static void playCollectSound()
+    {
+        collectSrc.PlayOneShot(collectSound);
     }
 
 

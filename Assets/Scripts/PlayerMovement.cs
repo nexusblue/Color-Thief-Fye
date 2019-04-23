@@ -16,37 +16,30 @@ public class PlayerMovement : MonoBehaviour
     public float dashCoolDown = 1f;
     public float atkCoolDown = 1f;
     public float atkbtwTime = 0.005f;
+    public float startUpPlayer = 0.15f;
 
     private float dashTimer;
     private float atkTimer;
     private float dashLineOnTime = 0.066f;
     private float dashLineOffTime = 0.066f;
+
     bool jump;
     bool crouch;
     bool canMove = false;
-    public float startUpPlayer = 0.15f;
-    public Vector3 currCamPos;
-    public GameObject cam;
+
+    Rigidbody2D rb;
 
     private void Start(){
         speedLines.SetActive(false);
         StartCoroutine(FreezePlayer());
-        currCamPos = GetComponentInChildren<Transform>().localPosition;
-        
+        rb = GetComponent<Rigidbody2D>();
+
     }
 
     // Update is called once per frame
     void Update(){
         BasicMovement();
         DashTemp();
-        /*Debug.Log(Input.GetAxis("Horizontal"));
-        if (Input.GetAxis("Horizontal") != 0){
-
-            Vector3 newCamPos = currCamPos + new Vector3(6f * Input.GetAxis("Horizontal") , 0f,0f);
-            currCamPos = newCamPos;
-            Debug.Log(newCamPos);
-            Debug.Log("player is moving");
-        }*/
     }
 
     private void FixedUpdate(){
@@ -80,10 +73,10 @@ public class PlayerMovement : MonoBehaviour
         //set dash timer to reset after key press
         dashTimer -= Time.deltaTime;
         //check if able to dash/ play dash sound and reset time until next dash 
-        if ((Input.GetKeyDown(KeyCode.RightShift) || Input.GetButtonDown("Dash")) && Input.GetAxisRaw("Horizontal")!= 0 && dashTimer <= 0  )  {
+        if (( Input.GetKeyDown(KeyCode.RightShift) || Input.GetButtonDown("Dash")) && Input.GetAxisRaw("Horizontal")!= 0 && dashTimer <= 0  )  {
             dashTimer = dashCoolDown;
             StartCoroutine(TurnOn());
-            horizontalMove = Input.GetAxisRaw("Horizontal") * runSpeed * dashMultiplier;
+            rb.velocity = Vector2.right * dashMultiplier * Input.GetAxisRaw("Horizontal");
             SoundManager.playDash();
         }
 
@@ -137,6 +130,3 @@ public class PlayerMovement : MonoBehaviour
 
 }
 
-    /*
-
-    */

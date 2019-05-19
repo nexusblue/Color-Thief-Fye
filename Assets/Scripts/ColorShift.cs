@@ -18,7 +18,7 @@ public class ColorShift : MonoBehaviour
     // Start is called before the first frame update
     void Start(){
         //playerColorNew = Color.white;
-        colorCode = 0;
+        colorCode = 1;
         playerColor.color = Color.white;
         trailColor = GetComponent<TrailRenderer>() ;
         trailColor.material.color = Color.white; 
@@ -28,17 +28,16 @@ public class ColorShift : MonoBehaviour
         ColorShiftFoward();
     }
 
-    private void ColorShiftFoward()
-    {
+    private void ColorShiftFoward(){
         // switch case to check to for color code and which to switch to
-        if ((Input.GetKeyDown(KeyCode.Return) || Input.GetButtonDown("ColorShiftButton"))){
-
+        if ((Input.GetKeyDown(KeyCode.J) || Input.GetButtonDown("ColorShiftNext"))){
             switch (colorCode){
+                /*
                 case 0:
                     playerColor.color = red;
                     trailColor.material.color = red;
                     colorCode = 1;
-                    break;
+                    break;*/
                 case 1:
                     playerColor.color = red;
                     trailColor.material.color = red;
@@ -53,6 +52,27 @@ public class ColorShift : MonoBehaviour
                     playerColor.color = yellow;
                     trailColor.material.color = yellow;
                     colorCode = 1;
+                    break;
+            }
+            SoundManager.playColorShift();
+        }
+        //Shift color backward
+        if ((Input.GetKeyDown(KeyCode.K) || Input.GetButtonDown("ColorShiftPrev"))){
+            switch (colorCode){
+                case 1:
+                    playerColor.color = red;
+                    trailColor.material.color = red;
+                    colorCode = 3;
+                    break;
+                case 2:
+                    playerColor.color = blue;
+                    trailColor.material.color = blue;
+                    colorCode = 1;
+                    break;
+                case 3:
+                    playerColor.color = yellow;
+                    trailColor.material.color = yellow;
+                    colorCode = 2;
                     break;
             }
             SoundManager.playColorShift();

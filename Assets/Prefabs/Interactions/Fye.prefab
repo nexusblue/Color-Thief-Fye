@@ -304,7 +304,7 @@ CapsuleCollider2D:
   m_GameObject: {fileID: 1296814559479313604}
   m_Enabled: 1
   m_Density: 1
-  m_Material: {fileID: 0}
+  m_Material: {fileID: 6200000, guid: 9ba9612cd6a2d4205b814c895b26d127, type: 2}
   m_IsTrigger: 1
   m_UsedByEffector: 0
   m_UsedByComposite: 0
@@ -320,13 +320,13 @@ CapsuleCollider2D:
   m_GameObject: {fileID: 1296814559479313604}
   m_Enabled: 1
   m_Density: 1
-  m_Material: {fileID: 0}
+  m_Material: {fileID: 6200000, guid: 9ba9612cd6a2d4205b814c895b26d127, type: 2}
   m_IsTrigger: 0
   m_UsedByEffector: 0
   m_UsedByComposite: 0
   m_Offset: {x: -0.029436111, y: -0.24927437}
   m_Size: {x: 0.82120514, y: 0.91627955}
-  m_Direction: 0
+  m_Direction: 1
 --- !u!96 &1169606597
 TrailRenderer:
   serializedVersion: 2
@@ -462,7 +462,7 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: 02bac4fb1fcf44baca8bf9dd602d7a48, type: 3}
   m_Name: 
   m_EditorClassIdentifier: 
-  m_JumpForce: 1250
+  m_JumpForce: 1400
   m_CrouchSpeed: 0.36
   m_MovementSmoothing: 0.05
   m_AirControl: 1
@@ -524,8 +524,9 @@ MonoBehaviour:
   dashMultiplier: 100
   dashCoolDown: 0.66
   atkCoolDown: 0.66
-  atkbtwTime: 0.015
-  startUpPlayer: 0.15
+  atkbtwTime: 0.15
+  startUpPlayer: 0.125
+  AttackCollider: {fileID: 5693025852684292325}
 --- !u!114 &1583618021
 MonoBehaviour:
   m_ObjectHideFlags: 0
@@ -555,12 +556,10 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: d10297aaac4124162bbd5b51ad569702, type: 3}
   m_Name: 
   m_EditorClassIdentifier: 
-  stealthRate: 3.5
   healthRate: 100
+  stealthRate: 3.5
   stealthLvl: {fileID: 0}
-  score: {fileID: 0}
-  scoreValue: 0
-  currentLvl: 0
+  currentLvl: 1
 --- !u!1 &1296814560357795339
 GameObject:
   m_ObjectHideFlags: 0
@@ -618,7 +617,7 @@ Transform:
   m_PrefabAsset: {fileID: 0}
   m_GameObject: {fileID: 1296814560560290659}
   m_LocalRotation: {x: -0, y: -0, z: -0, w: 1}
-  m_LocalPosition: {x: 0, y: 1.5, z: -10}
+  m_LocalPosition: {x: 0, y: -0.36, z: -10}
   m_LocalScale: {x: 1, y: 1, z: 1}
   m_Children: []
   m_Father: {fileID: 1296814559479313601}
@@ -650,7 +649,7 @@ Camera:
   far clip plane: 1000
   field of view: 60
   orthographic: 1
-  orthographic size: 5.75
+  orthographic size: 6.3
   m_Depth: -1
   m_CullingMask:
     serializedVersion: 2
@@ -659,7 +658,7 @@ Camera:
   m_TargetTexture: {fileID: 0}
   m_TargetDisplay: 0
   m_TargetEye: 0
-  m_HDR: 1
+  m_HDR: 0
   m_AllowMSAA: 0
   m_AllowDynamicResolution: 0
   m_ForceIntoRT: 0
@@ -705,7 +704,7 @@ GameObject:
   m_Icon: {fileID: 0}
   m_NavMeshLayer: 0
   m_StaticEditorFlags: 0
-  m_IsActive: 1
+  m_IsActive: 0
 --- !u!4 &6122790997231893567
 Transform:
   m_ObjectHideFlags: 0
@@ -727,13 +726,13 @@ BoxCollider2D:
   m_PrefabInstance: {fileID: 0}
   m_PrefabAsset: {fileID: 0}
   m_GameObject: {fileID: 5693025852684292325}
-  m_Enabled: 0
+  m_Enabled: 1
   m_Density: 1
   m_Material: {fileID: 0}
   m_IsTrigger: 1
   m_UsedByEffector: 0
   m_UsedByComposite: 0
-  m_Offset: {x: 0.6873665, y: 0.024725437}
+  m_Offset: {x: 0.8281418, y: 0.024725437}
   m_SpriteTilingProperty:
     border: {x: 0, y: 0, z: 0, w: 0}
     pivot: {x: 0, y: 0}
@@ -744,5 +743,5 @@ BoxCollider2D:
     adaptiveTiling: 0
   m_AutoTiling: 0
   serializedVersion: 2
-  m_Size: {x: 0.7527466, y: 1.326375}
+  m_Size: {x: 1.0342972, y: 1.326375}
   m_EdgeRadius: 0

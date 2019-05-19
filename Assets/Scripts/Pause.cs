@@ -9,14 +9,17 @@ public class Pause : MonoBehaviour
     public GameObject pauseScreen;
 
     // Update is called once per frame
-    void Update()
-    {
-        if (Input.GetKeyDown(KeyCode.P)) { 
-            if(Time.timeScale == 1) {
+    void Update(){
+        PauseGame();
+        QuitGame();
+    }
+
+    public void PauseGame(){
+        if (Input.GetKeyDown(KeyCode.P) || Input.GetButtonDown("Pause")){
+            if (Time.timeScale == 1){
                 pauseScreen.SetActive(true);
                 Time.timeScale = 0;
                 pauseSource.Play();
-
             }
             else{
                 Time.timeScale = 1;
@@ -24,6 +27,12 @@ public class Pause : MonoBehaviour
                 pauseScreen.SetActive(false);
             }
 
+        }
+    }
+
+    public static void QuitGame(){
+        if (Input.GetKeyDown(KeyCode.Escape)){
+            Application.Quit();
         }
     }
 }

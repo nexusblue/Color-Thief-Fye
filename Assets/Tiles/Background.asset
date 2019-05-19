@@ -18,11 +18,10 @@ MonoBehaviour:
   m_TilingRules:
   - m_Neighbors: 0000000000000000000000000000000000000000000000000000000000000000
     m_Sprites:
-    - {fileID: 21300064, guid: e232fe7b349ff493fa0d6ca27e7fb44f, type: 3}
-    - {fileID: 21300092, guid: e232fe7b349ff493fa0d6ca27e7fb44f, type: 3}
+    - {fileID: 21300048, guid: e232fe7b349ff493fa0d6ca27e7fb44f, type: 3}
     m_GameObject: {fileID: 0}
     m_AnimationSpeed: 1
-    m_PerlinScale: 0.98
+    m_PerlinScale: 0.63
     m_RuleTransform: 0
     m_Output: 1
     m_ColliderType: 1

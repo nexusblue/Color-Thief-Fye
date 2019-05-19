@@ -13,7 +13,6 @@ public class ColorCheck : MonoBehaviour {
     //4. Do following things to player if collided
     //disable collider when color code is at a 
     //certain level(ie when player hits button is at a specific code color)
-    //public int OverlapCollider;
     //check for layer(make a layer for each color) configure collision matrix 
     //project settings-> collision matrix 
     //change layer when chaning color 
@@ -21,16 +20,17 @@ public class ColorCheck : MonoBehaviour {
     //Create health and stealth values 
     float health = 100;
     float stealth;
-    float stealthStart = 100;
-    public float stealthRate = 1f;
+
     public float healthRate = 1f;
     //Track player color and stealth text
     Color playerColor;
+    float stealthStart = 100;
+    public float stealthRate = 1f;
     public TextMeshProUGUI stealthLvl;
-    public TextMeshProUGUI score;
-    public float scoreValue;
-    public int currentLvl = 0;
+    public int currentLvl ;
 
+    //public TextMeshProUGUI score;
+    //public float scoreValue;
 
     void Start() {
         //set stealth value and player color to sprite render
@@ -40,16 +40,23 @@ public class ColorCheck : MonoBehaviour {
 
 
     void Update() {
-        //update stealth text and player color 
+        //update stealth levels and player color 
         playerColor = GetComponent<SpriteRenderer>().color;
         stealthLvl.text = "Detection Level:" + Mathf.Round(stealth).ToString();
+        //if stealth is below zero restart the level
         if (stealth <= 0) {
             SceneManager.LoadScene(currentLvl);
         }
-        score.text = "Score:" + scoreValue.ToString();
+        //score.text = "Score:" + scoreValue.ToString();
     }
 
     private void OnTriggerStay2D(Collider2D collision){
+        CheckForLaser(collision);
+        CheckForSpotLight(collision);
+        CheckForEnemy(collision);
+    }
+
+    private void CheckForLaser(Collider2D collision){
         //check for lasers and disable collider
         //if player color == laser color and vice versa
         GameObject laser = collision.gameObject;
@@ -61,27 +68,33 @@ public class ColorCheck : MonoBehaviour {
         if (collision.tag == "Laser" && !laserColor.Equals(playerColor) && !laserCollider.enabled){
             laserCollider.enabled = !laserCollider.enabled;
         }
+    }
+
+    private void CheckForSpotLight(Collider2D collision){
         //check for spotlight and subtract detection value
         //if player color != laser color
         GameObject spotlight = collision.gameObject;
         Color spotlightColor = spotlight.GetComponent<SpriteRenderer>().color;
-        if (collision.tag == "Spotlight" && !spotlightColor.Equals(playerColor)){
+        if (collision.tag == "Spotlight" && !spotlightColor.Equals(playerColor))
+        {
             stealth = (stealth - (stealthRate * Time.deltaTime));
         }
-
     }
 
-    // for future note refrence collectable script to get multiple jewel types to increase score.
-    private void OnTriggerExit2D(Collider2D collision){
-        //check for and destroy collectable
-        /* 
-        if (collision.tag == "Collectable"){
-            Destroy(collision.gameObject);
-            scoreValue += 25;
-            
+    private void CheckForEnemy(Collider2D collision){
+        //check for enemy and kill player
+        //if player color != patrol color
+        GameObject patrolUnit = collision.gameObject;
+        Color patrolUnitColor = patrolUnit.GetComponent<SpriteRenderer>().color;
+        if (collision.tag == "Enemy" && !patrolUnitColor.Equals(playerColor)){
+            Debug.Log("Collided with and color is not the same");
+            //stealth = (stealth - (stealthRate * Time.deltaTime));
+            SceneManager.LoadScene(currentLvl);
         }
-        */       
-    }
+        if (collision.tag == "Enemy" && patrolUnitColor.Equals(playerColor)){
+            Debug.Log("Collided and color is the same");
 
+        }
+    }
 
 }

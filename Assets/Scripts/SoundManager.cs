@@ -28,7 +28,7 @@ public class SoundManager : MonoBehaviour
         dashSound = Resources.Load<AudioClip>("DashSFX2");
         dashSrc = GetComponent<AudioSource>();
 
-        swordSound = Resources.Load<AudioClip>("SwordSlash");
+        swordSound = Resources.Load<AudioClip>("SwordSlashSFX");
         swordSrc = GetComponent<AudioSource>();
 
         jumpSound = Resources.Load<AudioClip>("JumpYell");

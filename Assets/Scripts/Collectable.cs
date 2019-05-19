@@ -1,41 +1,42 @@
 ﻿using System.Collections;
 using System.Collections.Generic;
 using UnityEngine;
-using TMPro;
 
-public class Collectable : MonoBehaviour
-{
-    public int scoreValue;
-    public TextMeshProUGUI score;
+public class Collectable : MonoBehaviour{
 
-    public enum Jewels { GREENSTONE, REDSTONE, BLUESTONE };
-    public Jewels jewelType;
+    // grab the jewel types from score.cs script
+    // and refrence the the scoreValue
+    public Score.Jewels jewelTypes;
+    bool sentinel = false;
+    public Score myScore;
 
-    void Update(){
-        Debug.Log(scoreValue);
-
+    private void Update(){
+        //Debug.Log(myScore.scoreValue);
     }
-
-    void OnTriggerEnter2D(Collider2D collision){
-        if (collision.gameObject.tag == "Player" ){
-            switch (jewelType){
-                case Jewels.GREENSTONE:
-                    scoreValue += 50;
-                    score.text = "Score: " + scoreValue.ToString();
+    // if the gameobject(in this case a jewel) collides 
+    // with the player destory the object and update score
+    // according to jewel type
+    private void OnTriggerEnter2D(Collider2D other){
+        if (other.gameObject.tag == "Player"){
+            switch (jewelTypes){
+                case Score.Jewels.GREENSTONE:
+                    myScore.scoreValue += 1;
+                    //Debug.Log("green");
                     break;
-                case Jewels.REDSTONE:
-                    scoreValue += 50;
-                    score.text = "Score: " + scoreValue.ToString();
+                case Score.Jewels.REDSTONE:
+                    myScore.scoreValue += 1;
+                    //Debug.Log("red");
                     break;
-                case Jewels.BLUESTONE:
-                    scoreValue += 50;
-                    score.text = "Score: " + scoreValue.ToString();
+                case Score.Jewels.BLUESTONE:
+                    myScore.scoreValue += 1;
+                    //Debug.Log("blue");
                     break;
             }
-            score.text = "Score: " + scoreValue.ToString();
             SoundManager.playCollectSound();
-            Destroy(gameObject);
+            //Destroy(gameObject);
+            gameObject.SetActive(false);
         }
-
     }
+
 }
+

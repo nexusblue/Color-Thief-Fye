@@ -15,9 +15,7 @@ public class CameraFollow : MonoBehaviour
         camlocalPos1 = cam.GetComponent<Transform>().localPosition;
     }
 
-    //find a way to check for the change
-    //in input.getaxis value horizonatl
-    //check for an event? 
+
     // Update is called once per frame
     void LateUpdate(){
         Vector3 camPosition2 = transform.localPosition;

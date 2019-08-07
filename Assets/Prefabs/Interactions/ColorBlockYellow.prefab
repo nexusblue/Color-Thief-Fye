@@ -13,7 +13,6 @@ GameObject:
   - component: {fileID: 9000565406958453814}
   - component: {fileID: 3692530991453712436}
   - component: {fileID: 5484166919735532864}
-  - component: {fileID: 1493939567792763180}
   m_Layer: 0
   m_Name: ColorBlockYellow
   m_TagString: Laser
@@ -135,21 +134,5 @@ CapsuleCollider2D:
   m_UsedByEffector: 0
   m_UsedByComposite: 0
   m_Offset: {x: 0, y: 0.01842007}
-  m_Size: {x: 1, y: 0.6768401}
-  m_Direction: 0
---- !u!70 &1493939567792763180
-CapsuleCollider2D:
-  m_ObjectHideFlags: 0
-  m_CorrespondingSourceObject: {fileID: 0}
-  m_PrefabInstance: {fileID: 0}
-  m_PrefabAsset: {fileID: 0}
-  m_GameObject: {fileID: 7418242907376064380}
-  m_Enabled: 0
-  m_Density: 1
-  m_Material: {fileID: 0}
-  m_IsTrigger: 0
-  m_UsedByEffector: 0
-  m_UsedByComposite: 0
-  m_Offset: {x: 0, y: 0.01842007}
-  m_Size: {x: 0.64, y: 0.6768401}
+  m_Size: {x: 10, y: 10}
   m_Direction: 0

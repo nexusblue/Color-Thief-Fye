@@ -20,15 +20,15 @@ public class Collectable : MonoBehaviour{
         if (other.gameObject.tag == "Player"){
             switch (jewelTypes){
                 case Score.Jewels.GREENSTONE:
-                    myScore.scoreValue += 1;
+                    //myScore.scoreValue += 1;
                     //Debug.Log("green");
                     break;
                 case Score.Jewels.REDSTONE:
-                    myScore.scoreValue += 1;
+                    //myScore.scoreValue += 1;
                     //Debug.Log("red");
                     break;
                 case Score.Jewels.BLUESTONE:
-                    myScore.scoreValue += 1;
+                    //myScore.scoreValue += 1;
                     //Debug.Log("blue");
                     break;
             }

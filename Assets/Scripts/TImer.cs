@@ -9,7 +9,8 @@ public class TImer : MonoBehaviour
     public TextMeshProUGUI timerText;
 
     void Awake(){
-            DontDestroyOnLoad(GameObject.Find("Canvas"));
+        //DontDestroyOnLoad(GameObject.Find("Canvas"));
+        DontDestroyOnLoad(this);
     }
 
     private void Start(){

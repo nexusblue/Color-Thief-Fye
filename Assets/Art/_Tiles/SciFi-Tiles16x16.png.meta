@@ -1,0 +1,7081 @@
+fileFormatVersion: 2
+guid: 42ef608b043704c0e8cd5507ceaa445d
+TextureImporter:
+  internalIDToNameTable:
+  - first:
+      213: 6759422178821863952
+    second: SciFi-Tiles_0
+  - first:
+      213: 1953116711058322854
+    second: SciFi-Tiles_1
+  - first:
+      213: -943438612970823307
+    second: SciFi-Tiles_2
+  - first:
+      213: 4090276044733200287
+    second: SciFi-Tiles_3
+  - first:
+      213: -4319898073101388266
+    second: SciFi-Tiles_4
+  - first:
+      213: 6197360211368359329
+    second: SciFi-Tiles_5
+  - first:
+      213: -7699412182147317669
+    second: SciFi-Tiles_6
+  - first:
+      213: -8571441618868373667
+    second: SciFi-Tiles_7
+  - first:
+      213: 8759958346238600590
+    second: SciFi-Tiles_8
+  - first:
+      213: -1552154304457699766
+    second: SciFi-Tiles_9
+  - first:
+      213: 4172083381284132272
+    second: SciFi-Tiles_10
+  - first:
+      213: 544809750540342842
+    second: SciFi-Tiles_11
+  - first:
+      213: 5429244571372181720
+    second: SciFi-Tiles_12
+  - first:
+      213: -5599990135924856604
+    second: SciFi-Tiles_13
+  - first:
+      213: -6877341008250428422
+    second: SciFi-Tiles_14
+  - first:
+      213: -4286415773222738850
+    second: SciFi-Tiles_15
+  - first:
+      213: -4323095988823352543
+    second: SciFi-Tiles_16
+  - first:
+      213: 3150147483846615424
+    second: SciFi-Tiles_17
+  - first:
+      213: -2903001656676814405
+    second: SciFi-Tiles_18
+  - first:
+      213: -4723135123023352180
+    second: SciFi-Tiles_19
+  - first:
+      213: 3179808999841970340
+    second: SciFi-Tiles_20
+  - first:
+      213: 6659669683684718457
+    second: SciFi-Tiles_21
+  - first:
+      213: 5319430535459212368
+    second: SciFi-Tiles_22
+  - first:
+      213: 4248534549839991393
+    second: SciFi-Tiles_23
+  - first:
+      213: 591333518081006549
+    second: SciFi-Tiles_24
+  - first:
+      213: -689049196805664747
+    second: SciFi-Tiles_25
+  - first:
+      213: 965733137100814245
+    second: SciFi-Tiles_26
+  - first:
+      213: 1320279090539737380
+    second: SciFi-Tiles_27
+  - first:
+      213: 3314115124489630068
+    second: SciFi-Tiles_28
+  - first:
+      213: 5779600445843485129
+    second: SciFi-Tiles_29
+  - first:
+      213: -2717378308333184984
+    second: SciFi-Tiles_30
+  - first:
+      213: -7497292509978102270
+    second: SciFi-Tiles_31
+  - first:
+      213: -388768098432559781
+    second: SciFi-Tiles_32
+  - first:
+      213: -8141440949504538913
+    second: SciFi-Tiles_33
+  - first:
+      213: 2949020317690666327
+    second: SciFi-Tiles_34
+  - first:
+      213: 335492627840192696
+    second: SciFi-Tiles_35
+  - first:
+      213: 3476814333462861986
+    second: SciFi-Tiles_36
+  - first:
+      213: -2504233810790494387
+    second: SciFi-Tiles_37
+  - first:
+      213: -3033411223082080289
+    second: SciFi-Tiles_38
+  - first:
+      213: 6552859999541907084
+    second: SciFi-Tiles_39
+  - first:
+      213: 1522177467374615408
+    second: SciFi-Tiles_40
+  - first:
+      213: 7054563024544406203
+    second: SciFi-Tiles_41
+  - first:
+      213: 9038574837716904845
+    second: SciFi-Tiles_42
+  - first:
+      213: 5415320554438706084
+    second: SciFi-Tiles_43
+  - first:
+      213: -3853886047076141946
+    second: SciFi-Tiles_44
+  - first:
+      213: 1810955629450917839
+    second: SciFi-Tiles_45
+  - first:
+      213: -4976897575977923970
+    second: SciFi-Tiles_46
+  - first:
+      213: 2196997361656043606
+    second: SciFi-Tiles_47
+  - first:
+      213: 3160692234424713316
+    second: SciFi-Tiles_48
+  - first:
+      213: 2192436513345120750
+    second: SciFi-Tiles_49
+  - first:
+      213: -4588796703669457838
+    second: SciFi-Tiles_50
+  - first:
+      213: -5174819994307717444
+    second: SciFi-Tiles_51
+  - first:
+      213: -8634032241957965379
+    second: SciFi-Tiles_52
+  - first:
+      213: -2710599802848099559
+    second: SciFi-Tiles_53
+  - first:
+      213: 6514570229111393779
+    second: SciFi-Tiles_54
+  - first:
+      213: 8047208660503856038
+    second: SciFi-Tiles_55
+  - first:
+      213: 8832226843639423749
+    second: SciFi-Tiles_56
+  - first:
+      213: 1873086579794930049
+    second: SciFi-Tiles_57
+  - first:
+      213: 2916284366672424556
+    second: SciFi-Tiles_58
+  - first:
+      213: -456360844058149139
+    second: SciFi-Tiles_59
+  - first:
+      213: -2540107835714569306
+    second: SciFi-Tiles_60
+  - first:
+      213: -4124815635591607712
+    second: SciFi-Tiles_61
+  - first:
+      213: -1607373235685433045
+    second: SciFi-Tiles_62
+  - first:
+      213: -4780773656460598017
+    second: SciFi-Tiles_63
+  - first:
+      213: 350987434543443637
+    second: SciFi-Tiles_64
+  - first:
+      213: 2571809045696852978
+    second: SciFi-Tiles_65
+  - first:
+      213: -2227474420442578625
+    second: SciFi-Tiles_66
+  - first:
+      213: -5390727816484491977
+    second: SciFi-Tiles_67
+  - first:
+      213: -5476779102185177735
+    second: SciFi-Tiles_68
+  - first:
+      213: -911781994963288963
+    second: SciFi-Tiles_69
+  - first:
+      213: -141284162288852356
+    second: SciFi-Tiles_70
+  - first:
+      213: -1259533314732365171
+    second: SciFi-Tiles_71
+  - first:
+      213: -5494698951248964869
+    second: SciFi-Tiles_72
+  - first:
+      213: -2268382319812646552
+    second: SciFi-Tiles_73
+  - first:
+      213: 4285452595921163559
+    second: SciFi-Tiles_74
+  - first:
+      213: -4109172111569327212
+    second: SciFi-Tiles_75
+  - first:
+      213: -5163925836960630273
+    second: SciFi-Tiles_76
+  - first:
+      213: -8784179505016426687
+    second: SciFi-Tiles_77
+  - first:
+      213: -1537034739448801398
+    second: SciFi-Tiles_78
+  - first:
+      213: 357873794905341460
+    second: SciFi-Tiles_79
+  - first:
+      213: -1481664244788638737
+    second: SciFi-Tiles_80
+  - first:
+      213: -1999108167161411352
+    second: SciFi-Tiles_81
+  - first:
+      213: 2668346656340028868
+    second: SciFi-Tiles_82
+  - first:
+      213: -8894317485211881479
+    second: SciFi-Tiles_83
+  - first:
+      213: -248441191043014224
+    second: SciFi-Tiles_84
+  - first:
+      213: -6306208709161019200
+    second: SciFi-Tiles_85
+  - first:
+      213: -1400189939408846564
+    second: SciFi-Tiles_86
+  - first:
+      213: -7862622567115658847
+    second: SciFi-Tiles_87
+  - first:
+      213: -1593150330621953739
+    second: SciFi-Tiles_88
+  - first:
+      213: 3963839382465409716
+    second: SciFi-Tiles_89
+  - first:
+      213: 2156528293972597498
+    second: SciFi-Tiles_90
+  - first:
+      213: -4960099006159452055
+    second: SciFi-Tiles_91
+  - first:
+      213: -4055650921984068431
+    second: SciFi-Tiles_92
+  - first:
+      213: -3527025627021980755
+    second: SciFi-Tiles_93
+  - first:
+      213: 4018585701198692301
+    second: SciFi-Tiles_94
+  - first:
+      213: -8238481972000643033
+    second: SciFi-Tiles_95
+  - first:
+      213: 2570729221172606301
+    second: SciFi-Tiles_96
+  - first:
+      213: -8376589080535049192
+    second: SciFi-Tiles_97
+  - first:
+      213: -6661695244082821958
+    second: SciFi-Tiles_98
+  - first:
+      213: -4209468517736565424
+    second: SciFi-Tiles_99
+  - first:
+      213: -8461145714411379492
+    second: SciFi-Tiles_100
+  - first:
+      213: 8695044253842572981
+    second: SciFi-Tiles_101
+  - first:
+      213: 5447650121141960990
+    second: SciFi-Tiles_102
+  - first:
+      213: -5447952354170168519
+    second: SciFi-Tiles_103
+  - first:
+      213: -5877071581846559449
+    second: SciFi-Tiles_104
+  - first:
+      213: -8116199078237447145
+    second: SciFi-Tiles_105
+  - first:
+      213: -116708473666579638
+    second: SciFi-Tiles_106
+  - first:
+      213: 4952817009895867728
+    second: SciFi-Tiles_107
+  - first:
+      213: -5290480304859113347
+    second: SciFi-Tiles_108
+  - first:
+      213: -6777034881357153706
+    second: SciFi-Tiles_109
+  - first:
+      213: 7128794306960991461
+    second: SciFi-Tiles_110
+  - first:
+      213: -7183259848637360878
+    second: SciFi-Tiles_111
+  - first:
+      213: -2058934963315199628
+    second: SciFi-Tiles_112
+  - first:
+      213: -1177047848581709083
+    second: SciFi-Tiles_113
+  - first:
+      213: 3722667449957251115
+    second: SciFi-Tiles_114
+  - first:
+      213: 6443200626945317004
+    second: SciFi-Tiles_115
+  - first:
+      213: 4426560128782695289
+    second: SciFi-Tiles_116
+  - first:
+      213: -5944535899403927859
+    second: SciFi-Tiles_117
+  - first:
+      213: -4722758827940029944
+    second: SciFi-Tiles_118
+  - first:
+      213: -765786158094046422
+    second: SciFi-Tiles_119
+  - first:
+      213: -3754637587361064039
+    second: SciFi-Tiles_120
+  - first:
+      213: 6667778228613015710
+    second: SciFi-Tiles_121
+  - first:
+      213: -6139682539096589881
+    second: SciFi-Tiles_122
+  - first:
+      213: 6139085616366258501
+    second: SciFi-Tiles_123
+  - first:
+      213: -7375769196396417248
+    second: SciFi-Tiles_124
+  - first:
+      213: 7683871322675719144
+    second: SciFi-Tiles_125
+  - first:
+      213: -3249683258467753466
+    second: SciFi-Tiles_126
+  - first:
+      213: -7485235261376071757
+    second: SciFi-Tiles_127
+  - first:
+      213: -6638296429543360548
+    second: SciFi-Tiles_128
+  - first:
+      213: 5427372461615905158
+    second: SciFi-Tiles_129
+  - first:
+      213: -2072601058464821900
+    second: SciFi-Tiles_130
+  - first:
+      213: -1686468888438054869
+    second: SciFi-Tiles_131
+  - first:
+      213: 2829407727248896444
+    second: SciFi-Tiles_132
+  - first:
+      213: -923582827147086534
+    second: SciFi-Tiles_133
+  - first:
+      213: -1145004421279668232
+    second: SciFi-Tiles_134
+  - first:
+      213: -8419803954274519599
+    second: SciFi-Tiles_135
+  - first:
+      213: 3210737865446625951
+    second: SciFi-Tiles_136
+  - first:
+      213: 1314092966327507245
+    second: SciFi-Tiles_137
+  - first:
+      213: 7074234995740526795
+    second: SciFi-Tiles_138
+  - first:
+      213: -968197366196434691
+    second: SciFi-Tiles_139
+  - first:
+      213: 4024879059890047116
+    second: SciFi-Tiles_140
+  - first:
+      213: -7381736067801720044
+    second: SciFi-Tiles_141
+  - first:
+      213: 1408360822575336907
+    second: SciFi-Tiles_142
+  - first:
+      213: 2711945833642414221
+    second: SciFi-Tiles_143
+  - first:
+      213: -999106971711990037
+    second: SciFi-Tiles_144
+  - first:
+      213: -56897311122489050
+    second: SciFi-Tiles_145
+  - first:
+      213: -1315305520069544324
+    second: SciFi-Tiles_146
+  - first:
+      213: -4145506257441285868
+    second: SciFi-Tiles_147
+  - first:
+      213: -4080352913340774324
+    second: SciFi-Tiles_148
+  - first:
+      213: -5362070993850017221
+    second: SciFi-Tiles_149
+  - first:
+      213: 3430238065487632381
+    second: SciFi-Tiles_150
+  - first:
+      213: 8616306897468731089
+    second: SciFi-Tiles_151
+  - first:
+      213: -7067654409590057718
+    second: SciFi-Tiles_152
+  - first:
+      213: 5226382436159669616
+    second: SciFi-Tiles_153
+  - first:
+      213: 740725780008052176
+    second: SciFi-Tiles_154
+  - first:
+      213: -1535768861849271427
+    second: SciFi-Tiles_155
+  - first:
+      213: -4425785352303036119
+    second: SciFi-Tiles_156
+  - first:
+      213: 759827898206462550
+    second: SciFi-Tiles_157
+  - first:
+      213: 3364520442078746435
+    second: SciFi-Tiles_158
+  - first:
+      213: -6823614386831170115
+    second: SciFi-Tiles_159
+  - first:
+      213: -7412411114976977254
+    second: SciFi-Tiles_160
+  - first:
+      213: -2596890858982534719
+    second: SciFi-Tiles_161
+  - first:
+      213: -44045259429606455
+    second: SciFi-Tiles_162
+  - first:
+      213: -65306006845398292
+    second: SciFi-Tiles_163
+  - first:
+      213: -2135466357429355813
+    second: SciFi-Tiles_164
+  - first:
+      213: 344934511696198140
+    second: SciFi-Tiles_165
+  - first:
+      213: 7679174823149818054
+    second: SciFi-Tiles_166
+  - first:
+      213: 8034212567501411787
+    second: SciFi-Tiles_167
+  - first:
+      213: -3234387798716993477
+    second: SciFi-Tiles_168
+  - first:
+      213: 1550953286411875824
+    second: SciFi-Tiles_169
+  - first:
+      213: -5374360075971514325
+    second: SciFi-Tiles_170
+  - first:
+      213: 2859793209054495556
+    second: SciFi-Tiles_171
+  - first:
+      213: -4921934008710947332
+    second: SciFi-Tiles_172
+  - first:
+      213: -4126688651634298128
+    second: SciFi-Tiles_173
+  - first:
+      213: 8202847551639522724
+    second: SciFi-Tiles_174
+  - first:
+      213: 526670007966138592
+    second: SciFi-Tiles_175
+  - first:
+      213: -7449157999540875178
+    second: SciFi-Tiles_176
+  - first:
+      213: 8605114617924157547
+    second: SciFi-Tiles_177
+  - first:
+      213: 3248400623706157234
+    second: SciFi-Tiles_178
+  - first:
+      213: -4227202849769939360
+    second: SciFi-Tiles_179
+  - first:
+      213: -7534713068306143089
+    second: SciFi-Tiles_180
+  - first:
+      213: 8257030417804593820
+    second: SciFi-Tiles_181
+  - first:
+      213: 3941845678090283471
+    second: SciFi-Tiles_182
+  - first:
+      213: 1503186138107224564
+    second: SciFi-Tiles_183
+  - first:
+      213: -5289722298581031289
+    second: SciFi-Tiles_184
+  - first:
+      213: 5369645689721424952
+    second: SciFi-Tiles_185
+  - first:
+      213: 6799577961072227698
+    second: SciFi-Tiles_186
+  - first:
+      213: -2653520329435880354
+    second: SciFi-Tiles_187
+  - first:
+      213: 2615034103189841791
+    second: SciFi-Tiles_188
+  - first:
+      213: 656590175086505747
+    second: SciFi-Tiles_189
+  - first:
+      213: 5706755170958994309
+    second: SciFi-Tiles_190
+  - first:
+      213: -5209374364054223942
+    second: SciFi-Tiles_191
+  - first:
+      213: -6357315357408894849
+    second: SciFi-Tiles_192
+  - first:
+      213: -2594241680338482614
+    second: SciFi-Tiles_193
+  - first:
+      213: 713806106730072293
+    second: SciFi-Tiles_194
+  - first:
+      213: -7127742513098629274
+    second: SciFi-Tiles_195
+  - first:
+      213: -6075015960873901227
+    second: SciFi-Tiles_196
+  - first:
+      213: 2272237890568033675
+    second: SciFi-Tiles_197
+  - first:
+      213: -2777183120864595479
+    second: SciFi-Tiles_198
+  - first:
+      213: -6518647930963338848
+    second: SciFi-Tiles_199
+  - first:
+      213: -8409733412633380662
+    second: SciFi-Tiles_200
+  - first:
+      213: 8722522713218029915
+    second: SciFi-Tiles_201
+  - first:
+      213: -9103786513923102392
+    second: SciFi-Tiles_202
+  - first:
+      213: 1112685261312642553
+    second: SciFi-Tiles_203
+  - first:
+      213: 3551150381179576361
+    second: SciFi-Tiles_204
+  - first:
+      213: -9195802816677016338
+    second: SciFi-Tiles_205
+  - first:
+      213: 2776218589291825057
+    second: SciFi-Tiles_206
+  - first:
+      213: -42429734017801080
+    second: SciFi-Tiles_207
+  - first:
+      213: 7616892260977907980
+    second: SciFi-Tiles_208
+  - first:
+      213: -4749915922502038746
+    second: SciFi-Tiles_209
+  - first:
+      213: -2640835253800450805
+    second: SciFi-Tiles_210
+  - first:
+      213: 13281840926594398
+    second: SciFi-Tiles_211
+  - first:
+      213: 4257224569470219247
+    second: SciFi-Tiles_212
+  - first:
+      213: -3765679117020895179
+    second: SciFi-Tiles_213
+  - first:
+      213: 8616859093738564371
+    second: SciFi-Tiles_214
+  - first:
+      213: 6150922576749018094
+    second: SciFi-Tiles_215
+  - first:
+      213: -6078653628396732570
+    second: SciFi-Tiles_216
+  - first:
+      213: -8267077737488104094
+    second: SciFi-Tiles_217
+  - first:
+      213: -1906022481470158272
+    second: SciFi-Tiles_218
+  - first:
+      213: 1423614595350128578
+    second: SciFi-Tiles_219
+  - first:
+      213: 8792331474192060161
+    second: SciFi-Tiles_220
+  - first:
+      213: -1688867802584834632
+    second: SciFi-Tiles_221
+  - first:
+      213: 7766414300703132287
+    second: SciFi-Tiles_222
+  - first:
+      213: -62911714816727581
+    second: SciFi-Tiles_223
+  - first:
+      213: -9029816475059383374
+    second: SciFi-Tiles_224
+  - first:
+      213: -4410164176041758521
+    second: SciFi-Tiles_225
+  - first:
+      213: -2259144216539104184
+    second: SciFi-Tiles_226
+  - first:
+      213: -5079142903042648879
+    second: SciFi-Tiles_227
+  - first:
+      213: 2435073093815237141
+    second: SciFi-Tiles_228
+  - first:
+      213: 3678127650609397311
+    second: SciFi-Tiles_229
+  - first:
+      213: 833602555039729518
+    second: SciFi-Tiles_230
+  - first:
+      213: 1632444907822651828
+    second: SciFi-Tiles_231
+  - first:
+      213: -2417230748102952532
+    second: SciFi-Tiles_232
+  - first:
+      213: -830320761461084106
+    second: SciFi-Tiles_233
+  - first:
+      213: -319926851061633632
+    second: SciFi-Tiles_234
+  - first:
+      213: -6780827965509675069
+    second: SciFi-Tiles_235
+  - first:
+      213: -8246190501298988690
+    second: SciFi-Tiles_236
+  - first:
+      213: 7847872445242276155
+    second: SciFi-Tiles_237
+  - first:
+      213: -7851541615428520891
+    second: SciFi-Tiles_238
+  - first:
+      213: -2578516160532551010
+    second: SciFi-Tiles_239
+  - first:
+      213: 666687562426720687
+    second: SciFi-Tiles_240
+  - first:
+      213: 292887880676918088
+    second: SciFi-Tiles_241
+  - first:
+      213: -1693518318242722050
+    second: SciFi-Tiles_242
+  - first:
+      213: 4058696505900908696
+    second: SciFi-Tiles_243
+  - first:
+      213: 2962876856942379260
+    second: SciFi-Tiles_244
+  - first:
+      213: -995531490229139840
+    second: SciFi-Tiles_245
+  - first:
+      213: -4538816583097119177
+    second: SciFi-Tiles_246
+  - first:
+      213: -164234281315550144
+    second: SciFi-Tiles_247
+  - first:
+      213: 5797932017542690912
+    second: SciFi-Tiles_248
+  - first:
+      213: 4333213581843723757
+    second: SciFi-Tiles_249
+  - first:
+      213: -3848378660514416830
+    second: SciFi-Tiles_250
+  - first:
+      213: -2280155195856681439
+    second: SciFi-Tiles_251
+  - first:
+      213: -180319475191916705
+    second: SciFi-Tiles_252
+  - first:
+      213: 5770189347201271995
+    second: SciFi-Tiles_253
+  - first:
+      213: 397014561408541154
+    second: SciFi-Tiles_254
+  - first:
+      213: -1436372185242889934
+    second: SciFi-Tiles_255
+  - first:
+      213: 1998348934199649427
+    second: SciFi-Tiles_256
+  - first:
+      213: -1419759275438297801
+    second: SciFi-Tiles_257
+  - first:
+      213: 1487407415157139271
+    second: SciFi-Tiles16x16_0
+  - first:
+      213: -8525800175819319299
+    second: SciFi-Tiles16x16_1
+  - first:
+      213: 6413760909761827359
+    second: SciFi-Tiles16x16_2
+  - first:
+      213: -2960852516784783027
+    second: SciFi-Tiles16x16_3
+  - first:
+      213: -7075040405109382629
+    second: SciFi-Tiles16x16_4
+  - first:
+      213: 5638648852766770960
+    second: SciFi-Tiles16x16_5
+  - first:
+      213: -5544829094981935254
+    second: SciFi-Tiles16x16_6
+  - first:
+      213: 4956350421426931884
+    second: SciFi-Tiles16x16_7
+  - first:
+      213: 1438670758975144192
+    second: SciFi-Tiles16x16_8
+  - first:
+      213: 4059110593583059592
+    second: SciFi-Tiles16x16_9
+  - first:
+      213: 4309578197528682265
+    second: SciFi-Tiles16x16_10
+  - first:
+      213: -4417870775614097229
+    second: SciFi-Tiles16x16_11
+  - first:
+      213: 2077293351652067940
+    second: SciFi-Tiles16x16_12
+  - first:
+      213: 1847085902268726933
+    second: SciFi-Tiles16x16_13
+  - first:
+      213: -7007366080221133046
+    second: SciFi-Tiles16x16_14
+  - first:
+      213: 1656544878820555215
+    second: SciFi-Tiles16x16_15
+  - first:
+      213: 264376363749860447
+    second: SciFi-Tiles16x16_16
+  - first:
+      213: -472716989628620771
+    second: SciFi-Tiles16x16_17
+  - first:
+      213: 1662717645757726577
+    second: SciFi-Tiles16x16_18
+  - first:
+      213: -1161823859033357051
+    second: SciFi-Tiles16x16_19
+  - first:
+      213: 323807568414534901
+    second: SciFi-Tiles16x16_20
+  - first:
+      213: -3203217834978103626
+    second: SciFi-Tiles16x16_21
+  - first:
+      213: 7796155806769612729
+    second: SciFi-Tiles16x16_22
+  - first:
+      213: 5462175595114269937
+    second: SciFi-Tiles16x16_23
+  - first:
+      213: 2675788388219088422
+    second: SciFi-Tiles16x16_24
+  - first:
+      213: 121699505826742197
+    second: SciFi-Tiles16x16_25
+  - first:
+      213: -3605129621468335784
+    second: SciFi-Tiles16x16_26
+  - first:
+      213: -144958309193744127
+    second: SciFi-Tiles16x16_27
+  - first:
+      213: 8438087903902785792
+    second: SciFi-Tiles16x16_28
+  - first:
+      213: -2956884551225661131
+    second: SciFi-Tiles16x16_29
+  - first:
+      213: -4642654715102525191
+    second: SciFi-Tiles16x16_30
+  - first:
+      213: -1525330246513216268
+    second: SciFi-Tiles16x16_31
+  - first:
+      213: 6551400560805784849
+    second: SciFi-Tiles16x16_32
+  - first:
+      213: 5614604438533790299
+    second: SciFi-Tiles16x16_33
+  - first:
+      213: -694670890146624772
+    second: SciFi-Tiles16x16_34
+  - first:
+      213: -7268574516732164269
+    second: SciFi-Tiles16x16_35
+  - first:
+      213: -2500522267961501585
+    second: SciFi-Tiles16x16_36
+  - first:
+      213: -4676295344266321052
+    second: SciFi-Tiles16x16_37
+  - first:
+      213: -9145805032249492211
+    second: SciFi-Tiles16x16_38
+  - first:
+      213: -6607229213796407201
+    second: SciFi-Tiles16x16_39
+  - first:
+      213: 3419402159952661725
+    second: SciFi-Tiles16x16_40
+  - first:
+      213: -2060963711135064634
+    second: SciFi-Tiles16x16_41
+  - first:
+      213: -317720332961193627
+    second: SciFi-Tiles16x16_42
+  - first:
+      213: -1825547252517249768
+    second: SciFi-Tiles16x16_43
+  - first:
+      213: 8055972302836503410
+    second: SciFi-Tiles16x16_44
+  - first:
+      213: -4498431610816371577
+    second: SciFi-Tiles16x16_45
+  - first:
+      213: -5060931790812752787
+    second: SciFi-Tiles16x16_46
+  - first:
+      213: 6447665287626853120
+    second: SciFi-Tiles16x16_47
+  - first:
+      213: 7006200472262767
+    second: SciFi-Tiles16x16_48
+  - first:
+      213: -4519048552881798507
+    second: SciFi-Tiles16x16_49
+  - first:
+      213: 3019995406580120033
+    second: SciFi-Tiles16x16_50
+  - first:
+      213: 4134280732864554506
+    second: SciFi-Tiles16x16_51
+  - first:
+      213: -7868711245099485640
+    second: SciFi-Tiles16x16_52
+  - first:
+      213: 5035796838037566286
+    second: SciFi-Tiles16x16_53
+  - first:
+      213: 871469291785354377
+    second: SciFi-Tiles16x16_54
+  - first:
+      213: 5062870135453217084
+    second: SciFi-Tiles16x16_55
+  - first:
+      213: 2511913298219743007
+    second: SciFi-Tiles16x16_56
+  - first:
+      213: 544494226028698479
+    second: SciFi-Tiles16x16_57
+  - first:
+      213: 7110841498242144620
+    second: SciFi-Tiles16x16_58
+  - first:
+      213: -5854732104963420975
+    second: SciFi-Tiles16x16_59
+  - first:
+      213: -5193887927579395324
+    second: SciFi-Tiles16x16_60
+  - first:
+      213: -4507248930015944986
+    second: SciFi-Tiles16x16_61
+  - first:
+      213: -5235329729865700991
+    second: SciFi-Tiles16x16_62
+  - first:
+      213: -2075161787709265167
+    second: SciFi-Tiles16x16_63
+  - first:
+      213: -113917991087811376
+    second: SciFi-Tiles16x16_64
+  - first:
+      213: -2118541738871631667
+    second: SciFi-Tiles16x16_65
+  - first:
+      213: -8972805640040588617
+    second: SciFi-Tiles16x16_66
+  - first:
+      213: 1998061115021494959
+    second: SciFi-Tiles16x16_67
+  - first:
+      213: 322119836388094052
+    second: SciFi-Tiles16x16_68
+  - first:
+      213: 7578531707299089862
+    second: SciFi-Tiles16x16_69
+  - first:
+      213: 2939715021200958864
+    second: SciFi-Tiles16x16_70
+  - first:
+      213: 6968471161377440127
+    second: SciFi-Tiles16x16_71
+  - first:
+      213: -7192094824147715775
+    second: SciFi-Tiles16x16_72
+  - first:
+      213: 4071958025343869679
+    second: SciFi-Tiles16x16_73
+  - first:
+      213: 3962765372612549147
+    second: SciFi-Tiles16x16_74
+  - first:
+      213: -2458318694743180320
+    second: SciFi-Tiles16x16_75
+  - first:
+      213: 954207375815052364
+    second: SciFi-Tiles16x16_76
+  - first:
+      213: 6393392424528169513
+    second: SciFi-Tiles16x16_77
+  - first:
+      213: 526966650621280321
+    second: SciFi-Tiles16x16_78
+  - first:
+      213: -8350739514716204630
+    second: SciFi-Tiles16x16_79
+  - first:
+      213: -1327126788087733398
+    second: SciFi-Tiles16x16_80
+  - first:
+      213: -7594118721937333662
+    second: SciFi-Tiles16x16_81
+  - first:
+      213: 7671143330430486522
+    second: SciFi-Tiles16x16_82
+  - first:
+      213: -1021220919068089201
+    second: SciFi-Tiles16x16_83
+  - first:
+      213: 5340898353855185011
+    second: SciFi-Tiles16x16_84
+  - first:
+      213: 2112360977234673168
+    second: SciFi-Tiles16x16_85
+  - first:
+      213: -6712372498420239789
+    second: SciFi-Tiles16x16_86
+  - first:
+      213: 8942090042699815869
+    second: SciFi-Tiles16x16_87
+  - first:
+      213: -4303619763746951453
+    second: SciFi-Tiles16x16_88
+  - first:
+      213: 8542435161312249399
+    second: SciFi-Tiles16x16_89
+  - first:
+      213: -4114472920755333867
+    second: SciFi-Tiles16x16_90
+  - first:
+      213: -7897045536759377203
+    second: SciFi-Tiles16x16_91
+  - first:
+      213: 1090177969959965520
+    second: SciFi-Tiles16x16_92
+  - first:
+      213: 4024757290223358825
+    second: SciFi-Tiles16x16_93
+  - first:
+      213: -316140828528007587
+    second: SciFi-Tiles16x16_94
+  - first:
+      213: -8407329115136514544
+    second: SciFi-Tiles16x16_95
+  - first:
+      213: 8414050507938177635
+    second: SciFi-Tiles16x16_96
+  - first:
+      213: 6517698085529889166
+    second: SciFi-Tiles16x16_97
+  - first:
+      213: 303295317758399275
+    second: SciFi-Tiles16x16_98
+  - first:
+      213: 3735884247801660157
+    second: SciFi-Tiles16x16_99
+  - first:
+      213: -8200248283103490892
+    second: SciFi-Tiles16x16_100
+  - first:
+      213: -8761231103490947199
+    second: SciFi-Tiles16x16_101
+  - first:
+      213: -610505621998442896
+    second: SciFi-Tiles16x16_102
+  - first:
+      213: -3148899134461897951
+    second: SciFi-Tiles16x16_103
+  - first:
+      213: 8641826606773885089
+    second: SciFi-Tiles16x16_104
+  - first:
+      213: 1315100917627092493
+    second: SciFi-Tiles16x16_105
+  - first:
+      213: 8186903864309445501
+    second: SciFi-Tiles16x16_106
+  - first:
+      213: -3452312759370127288
+    second: SciFi-Tiles16x16_107
+  - first:
+      213: -454257923262631825
+    second: SciFi-Tiles16x16_108
+  - first:
+      213: -2320381209882659946
+    second: SciFi-Tiles16x16_109
+  - first:
+      213: 6966612546459599066
+    second: SciFi-Tiles16x16_110
+  - first:
+      213: -6555277451003214727
+    second: SciFi-Tiles16x16_111
+  - first:
+      213: -4152678965100649940
+    second: SciFi-Tiles16x16_112
+  - first:
+      213: -5047599113987533086
+    second: SciFi-Tiles16x16_113
+  - first:
+      213: 1781523495331199127
+    second: SciFi-Tiles16x16_114
+  - first:
+      213: 7101301549565872075
+    second: SciFi-Tiles16x16_115
+  - first:
+      213: -8173230796767677175
+    second: SciFi-Tiles16x16_116
+  - first:
+      213: 8741421058025379954
+    second: SciFi-Tiles16x16_117
+  - first:
+      213: 1931524364193267539
+    second: SciFi-Tiles16x16_118
+  - first:
+      213: 2390674053547165070
+    second: SciFi-Tiles16x16_119
+  - first:
+      213: -7491472996788519013
+    second: SciFi-Tiles16x16_120
+  - first:
+      213: -837600413809037343
+    second: SciFi-Tiles16x16_121
+  - first:
+      213: 6865438111700132147
+    second: SciFi-Tiles16x16_122
+  - first:
+      213: 963435047531776660
+    second: SciFi-Tiles16x16_123
+  - first:
+      213: -7739874488578695111
+    second: SciFi-Tiles16x16_124
+  - first:
+      213: 6249993639308991484
+    second: SciFi-Tiles16x16_125
+  - first:
+      213: 2446683500765639117
+    second: SciFi-Tiles16x16_126
+  - first:
+      213: 2993570299112981902
+    second: SciFi-Tiles16x16_127
+  - first:
+      213: -5067562026782810718
+    second: SciFi-Tiles16x16_128
+  - first:
+      213: -6867902971114057292
+    second: SciFi-Tiles16x16_129
+  - first:
+      213: 8425304371320302571
+    second: SciFi-Tiles16x16_130
+  - first:
+      213: 8038306874520407776
+    second: SciFi-Tiles16x16_131
+  - first:
+      213: 8618386012775135940
+    second: SciFi-Tiles16x16_132
+  - first:
+      213: -6554948015971101638
+    second: SciFi-Tiles16x16_133
+  - first:
+      213: 2555802214909021754
+    second: SciFi-Tiles16x16_134
+  - first:
+      213: -2495275634251929764
+    second: SciFi-Tiles16x16_135
+  - first:
+      213: 7838693515605579635
+    second: SciFi-Tiles16x16_136
+  - first:
+      213: -6569948375054057315
+    second: SciFi-Tiles16x16_137
+  - first:
+      213: 4764769308663109480
+    second: SciFi-Tiles16x16_138
+  - first:
+      213: -654546890710880771
+    second: SciFi-Tiles16x16_139
+  - first:
+      213: 3948653721152285478
+    second: SciFi-Tiles16x16_140
+  - first:
+      213: 1508448935370298496
+    second: SciFi-Tiles16x16_141
+  - first:
+      213: 5993600364017410353
+    second: SciFi-Tiles16x16_142
+  - first:
+      213: -3590077748567002707
+    second: SciFi-Tiles16x16_143
+  - first:
+      213: 6766373430959969945
+    second: SciFi-Tiles16x16_144
+  - first:
+      213: -305994298006219373
+    second: SciFi-Tiles16x16_145
+  - first:
+      213: 5319861971855762053
+    second: SciFi-Tiles16x16_146
+  - first:
+      213: 1499266425247002582
+    second: SciFi-Tiles16x16_147
+  - first:
+      213: 3479495846904794639
+    second: SciFi-Tiles16x16_148
+  - first:
+      213: 3800199414727369869
+    second: SciFi-Tiles16x16_149
+  - first:
+      213: 5259443503979372188
+    second: SciFi-Tiles16x16_150
+  - first:
+      213: 5119236322317193687
+    second: SciFi-Tiles16x16_151
+  - first:
+      213: 6024064863258554229
+    second: SciFi-Tiles16x16_152
+  - first:
+      213: -4171279306066360240
+    second: SciFi-Tiles16x16_153
+  - first:
+      213: 748647164362603517
+    second: SciFi-Tiles16x16_154
+  - first:
+      213: 4366290156911081945
+    second: SciFi-Tiles16x16_155
+  - first:
+      213: -6846508180631656993
+    second: SciFi-Tiles16x16_156
+  - first:
+      213: -7046845192018784535
+    second: SciFi-Tiles16x16_157
+  - first:
+      213: -8774466088509604215
+    second: SciFi-Tiles16x16_158
+  - first:
+      213: 8588463843615026856
+    second: SciFi-Tiles16x16_159
+  - first:
+      213: 8313203904471335074
+    second: SciFi-Tiles16x16_160
+  - first:
+      213: 7207827778734456089
+    second: SciFi-Tiles16x16_161
+  - first:
+      213: 1243655224882747727
+    second: SciFi-Tiles16x16_162
+  - first:
+      213: -8634104093281754119
+    second: SciFi-Tiles16x16_163
+  - first:
+      213: -1227703121776105600
+    second: SciFi-Tiles16x16_164
+  - first:
+      213: 4258902573230173635
+    second: SciFi-Tiles16x16_165
+  - first:
+      213: -3177602923335839869
+    second: SciFi-Tiles16x16_166
+  - first:
+      213: 3606822046044932765
+    second: SciFi-Tiles16x16_167
+  - first:
+      213: 7716551189357818044
+    second: SciFi-Tiles16x16_168
+  - first:
+      213: 6234325032524605432
+    second: SciFi-Tiles16x16_169
+  - first:
+      213: -4861806931549393827
+    second: SciFi-Tiles16x16_170
+  - first:
+      213: 5009750092891691330
+    second: SciFi-Tiles16x16_171
+  - first:
+      213: -6639168410909935627
+    second: SciFi-Tiles16x16_172
+  - first:
+      213: -5417626833300643085
+    second: SciFi-Tiles16x16_173
+  - first:
+      213: 6440821912346014837
+    second: SciFi-Tiles16x16_174
+  - first:
+      213: -5583082869026622756
+    second: SciFi-Tiles16x16_175
+  - first:
+      213: -3000420291804355889
+    second: SciFi-Tiles16x16_176
+  - first:
+      213: -7575703152404151460
+    second: SciFi-Tiles16x16_177
+  - first:
+      213: -7904883113897178280
+    second: SciFi-Tiles16x16_178
+  - first:
+      213: -1371726894847782919
+    second: SciFi-Tiles16x16_179
+  - first:
+      213: -7598726831703475022
+    second: SciFi-Tiles16x16_180
+  - first:
+      213: 4118159359902297182
+    second: SciFi-Tiles16x16_181
+  - first:
+      213: 4698696594882296935
+    second: SciFi-Tiles16x16_182
+  - first:
+      213: 7705519471460315145
+    second: SciFi-Tiles16x16_183
+  - first:
+      213: 4356791686029856472
+    second: SciFi-Tiles16x16_184
+  - first:
+      213: 2674883004896706462
+    second: SciFi-Tiles16x16_185
+  - first:
+      213: 1532426390431385371
+    second: SciFi-Tiles16x16_186
+  - first:
+      213: -1528969483015836754
+    second: SciFi-Tiles16x16_187
+  - first:
+      213: -8626111508415425452
+    second: SciFi-Tiles16x16_188
+  - first:
+      213: 586703721409025024
+    second: SciFi-Tiles16x16_189
+  - first:
+      213: 3460379256623031664
+    second: SciFi-Tiles16x16_190
+  - first:
+      213: -5745035914568444273
+    second: SciFi-Tiles16x16_191
+  - first:
+      213: -637615072778500398
+    second: SciFi-Tiles16x16_192
+  - first:
+      213: -996423897110066563
+    second: SciFi-Tiles16x16_193
+  - first:
+      213: -3329464173011615438
+    second: SciFi-Tiles16x16_194
+  - first:
+      213: -4647451779791968791
+    second: SciFi-Tiles16x16_195
+  - first:
+      213: -7768986395254196099
+    second: SciFi-Tiles16x16_196
+  - first:
+      213: 3623280638904360837
+    second: SciFi-Tiles16x16_197
+  - first:
+      213: -7431523383719655847
+    second: SciFi-Tiles16x16_198
+  - first:
+      213: 8225645536565225970
+    second: SciFi-Tiles16x16_199
+  - first:
+      213: -1495458850108751316
+    second: SciFi-Tiles16x16_200
+  - first:
+      213: -3026008230052133713
+    second: SciFi-Tiles16x16_201
+  - first:
+      213: -3536455150538869939
+    second: SciFi-Tiles16x16_202
+  - first:
+      213: 6346794481278033272
+    second: SciFi-Tiles16x16_203
+  - first:
+      213: 2963302104463150044
+    second: SciFi-Tiles16x16_204
+  - first:
+      213: 6043424369908478893
+    second: SciFi-Tiles16x16_205
+  - first:
+      213: -6893917383323321580
+    second: SciFi-Tiles16x16_206
+  - first:
+      213: 572510374549423588
+    second: SciFi-Tiles16x16_207
+  - first:
+      213: 3213256973906185420
+    second: SciFi-Tiles16x16_208
+  - first:
+      213: -2718965588715585222
+    second: SciFi-Tiles16x16_209
+  - first:
+      213: 7437266670749559996
+    second: SciFi-Tiles16x16_210
+  - first:
+      213: 1017305479338006481
+    second: SciFi-Tiles16x16_211
+  - first:
+      213: 2592736922779880606
+    second: SciFi-Tiles16x16_212
+  - first:
+      213: 8018342510793664681
+    second: SciFi-Tiles16x16_213
+  - first:
+      213: -4034105646995727625
+    second: SciFi-Tiles16x16_214
+  - first:
+      213: 1059571894989823650
+    second: SciFi-Tiles16x16_215
+  - first:
+      213: 569692857061873147
+    second: SciFi-Tiles16x16_216
+  - first:
+      213: -7598116547554745778
+    second: SciFi-Tiles16x16_217
+  - first:
+      213: -4175579280172098572
+    second: SciFi-Tiles16x16_218
+  - first:
+      213: 1092899550755389896
+    second: SciFi-Tiles16x16_219
+  - first:
+      213: -6726946718169029430
+    second: SciFi-Tiles16x16_220
+  - first:
+      213: 3398791089100582657
+    second: SciFi-Tiles16x16_221
+  - first:
+      213: 5978709776920706945
+    second: SciFi-Tiles16x16_222
+  - first:
+      213: 5276482947081469754
+    second: SciFi-Tiles16x16_223
+  - first:
+      213: 6923824190249664499
+    second: SciFi-Tiles16x16_224
+  - first:
+      213: -4294224505294577450
+    second: SciFi-Tiles16x16_225
+  - first:
+      213: -6950532909315136451
+    second: SciFi-Tiles16x16_226
+  - first:
+      213: -2476965934387739861
+    second: SciFi-Tiles16x16_227
+  - first:
+      213: 8507918440555606305
+    second: SciFi-Tiles16x16_228
+  - first:
+      213: 5230008485312199786
+    second: SciFi-Tiles16x16_229
+  - first:
+      213: 8636781273713687122
+    second: SciFi-Tiles16x16_230
+  - first:
+      213: 8363261268665645069
+    second: SciFi-Tiles16x16_231
+  - first:
+      213: 7578185601630758126
+    second: SciFi-Tiles16x16_232
+  - first:
+      213: -3366472753766521508
+    second: SciFi-Tiles16x16_233
+  - first:
+      213: 2999164898928457813
+    second: SciFi-Tiles16x16_234
+  - first:
+      213: 6857385553500717646
+    second: SciFi-Tiles16x16_235
+  - first:
+      213: 2075859144613520803
+    second: SciFi-Tiles16x16_236
+  - first:
+      213: 3773573507229145863
+    second: SciFi-Tiles16x16_237
+  - first:
+      213: 1668076452095708468
+    second: SciFi-Tiles16x16_238
+  - first:
+      213: -235319366597968647
+    second: SciFi-Tiles16x16_239
+  - first:
+      213: -7917000771732312961
+    second: SciFi-Tiles16x16_240
+  - first:
+      213: 3276442965426869158
+    second: SciFi-Tiles16x16_241
+  - first:
+      213: 6099424232878547944
+    second: SciFi-Tiles16x16_242
+  - first:
+      213: -4731854988186299753
+    second: SciFi-Tiles16x16_243
+  - first:
+      213: -4556572065338514757
+    second: SciFi-Tiles16x16_244
+  - first:
+      213: 2537979665724730605
+    second: SciFi-Tiles16x16_245
+  - first:
+      213: -7618673909185822169
+    second: SciFi-Tiles16x16_246
+  - first:
+      213: 1322237511773698702
+    second: SciFi-Tiles16x16_247
+  - first:
+      213: 8155798221237559582
+    second: SciFi-Tiles16x16_248
+  - first:
+      213: 1115005887593916383
+    second: SciFi-Tiles16x16_249
+  - first:
+      213: -6192722309835036986
+    second: SciFi-Tiles16x16_250
+  - first:
+      213: 128533930822360389
+    second: SciFi-Tiles16x16_251
+  - first:
+      213: 1845502757074278711
+    second: SciFi-Tiles16x16_252
+  - first:
+      213: -4356608783858794313
+    second: SciFi-Tiles16x16_253
+  - first:
+      213: 8619803050869153864
+    second: SciFi-Tiles16x16_254
+  - first:
+      213: -1350167629766865125
+    second: SciFi-Tiles16x16_255
+  - first:
+      213: 9092027481876418716
+    second: SciFi-Tiles16x16_256
+  - first:
+      213: -777851674933897602
+    second: SciFi-Tiles16x16_257
+  externalObjects: {}
+  serializedVersion: 10
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: 0
+    aniso: -1
+    mipBias: -100
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 16
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  platformSettings:
+  - serializedVersion: 3
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: WebGL
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: SciFi-Tiles16x16_0
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 256
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8a437ccf0bd804b969de737567d5646b
+      internalID: 1487407415157139271
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SciFi-Tiles16x16_1
+      rect:
+        serializedVersion: 2
+        x: 16
+        y: 256
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3692a7c6dc7a64a4c9e23a61e49199a9
+      internalID: -8525800175819319299
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SciFi-Tiles16x16_2
+      rect:
+        serializedVersion: 2
+        x: 32
+        y: 256
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: fab9759452aa742658516d729d8ac29a
+      internalID: 6413760909761827359
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SciFi-Tiles16x16_3
+      rect:
+        serializedVersion: 2
+        x: 48
+        y: 256
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b22d61f819bc647e48087acb37592e61
+      internalID: -2960852516784783027
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SciFi-Tiles16x16_4
+      rect:
+        serializedVersion: 2
+        x: 64
+        y: 256
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8c31a01ab02c64246bb2d0da030e9082
+      internalID: -7075040405109382629
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SciFi-Tiles16x16_5
+      rect:
+        serializedVersion: 2
+        x: 80
+        y: 256
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 73f534b49fc27453cad401c59d52be74
+      internalID: 5638648852766770960
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SciFi-Tiles16x16_6
+      rect:
+        serializedVersion: 2
+        x: 96
+        y: 256
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ba6e6dc38f84341d7be78d0274b6bc2a
+      internalID: -5544829094981935254
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SciFi-Tiles16x16_7
+      rect:
+        serializedVersion: 2
+        x: 128
+        y: 256
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 27c03d44a015740c8ac6dbd52a2fb50c
+      internalID: 4956350421426931884
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SciFi-Tiles16x16_8
+      rect:
+        serializedVersion: 2
+        x: 144
+        y: 256
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7507bd352c02b4e73997f0b7ac0fbc3d
+      internalID: 1438670758975144192
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SciFi-Tiles16x16_9
+      rect:
+        serializedVersion: 2
+        x: 160
+        y: 256
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 66fb1de8a161242a9bff187c5d8483b8
+      internalID: 4059110593583059592
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SciFi-Tiles16x16_10
+      rect:
+        serializedVersion: 2
+        x: 176
+        y: 256
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 241a7319a961b4e79b3e8775eb45517c
+      internalID: 4309578197528682265
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SciFi-Tiles16x16_11
+      rect:
+        serializedVersion: 2
+        x: 192
+        y: 256
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a527f8e1e75d94fba947789fa6685136
+      internalID: -4417870775614097229
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SciFi-Tiles16x16_12
+      rect:
+        serializedVersion: 2
+        x: 208
+        y: 256
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6d4266c283a524b228b7ecb17d8b914c
+      internalID: 2077293351652067940
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SciFi-Tiles16x16_13
+      rect:
+        serializedVersion: 2
+        x: 224
+        y: 256
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 21fa7c49277d84cd08beb19616f25a54
+      internalID: 1847085902268726933
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SciFi-Tiles16x16_14
+      rect:
+        serializedVersion: 2
+        x: 240
+        y: 256
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 64291d3880aee4811b9ba3cb2c5a1d7b
+      internalID: -7007366080221133046
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SciFi-Tiles16x16_15
+      rect:
+        serializedVersion: 2
+        x: 256
+        y: 256
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: bc16613b39a8a442487fbced3d014ed3
+      internalID: 1656544878820555215
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SciFi-Tiles16x16_16
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 240
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a1f5de24727b14919a109950e586a8ba
+      internalID: 264376363749860447
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SciFi-Tiles16x16_17
+      rect:
+        serializedVersion: 2
+        x: 16
+        y: 240
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e3c16db1594ea479d9247de38b68ca5d
+      internalID: -472716989628620771
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SciFi-Tiles16x16_18
+      rect:
+        serializedVersion: 2
+        x: 32
+        y: 240
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 06d4f302fe79c4820a8207a3a20d8c41
+      internalID: 1662717645757726577
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SciFi-Tiles16x16_19
+      rect:
+        serializedVersion: 2
+        x: 48
+        y: 240
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c041b2c8c0b4942c09d013a69b0904f7
+      internalID: -1161823859033357051
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SciFi-Tiles16x16_20
+      rect:
+        serializedVersion: 2
+        x: 64
+        y: 240
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e69c384fc2ab14b77b1481cdce0fcceb
+      internalID: 323807568414534901
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SciFi-Tiles16x16_21
+      rect:
+        serializedVersion: 2
+        x: 80
+        y: 240
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 182e3f35c3fa64d458d73fd587a35e59
+      internalID: -3203217834978103626
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SciFi-Tiles16x16_22
+      rect:
+        serializedVersion: 2
+        x: 96
+        y: 240
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 70bb061e1c5964c109dab86747677473
+      internalID: 7796155806769612729
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SciFi-Tiles16x16_23
+      rect:
+        serializedVersion: 2
+        x: 112
+        y: 240
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b98153585a3004312a9c88b1367bbc0d
+      internalID: 5462175595114269937
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SciFi-Tiles16x16_24
+      rect:
+        serializedVersion: 2
+        x: 128
+        y: 240
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 83f8647972c5e47268f1b0ba72ca99bb
+      internalID: 2675788388219088422
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SciFi-Tiles16x16_25
+      rect:
+        serializedVersion: 2
+        x: 144
+        y: 240
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7214c11cb19b841068be07fd4862796f
+      internalID: 121699505826742197
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SciFi-Tiles16x16_26
+      rect:
+        serializedVersion: 2
+        x: 160
+        y: 240
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: fe2e3886b323f426f9758167b916feef
+      internalID: -3605129621468335784
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SciFi-Tiles16x16_27
+      rect:
+        serializedVersion: 2
+        x: 176
+        y: 240
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: bf1fe40afb80447f5ac2b9fe1c1d42b5
+      internalID: -144958309193744127
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SciFi-Tiles16x16_28
+      rect:
+        serializedVersion: 2
+        x: 192
+        y: 240
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 753c2c2f79ce24d5fb3597005d5d6976
+      internalID: 8438087903902785792
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SciFi-Tiles16x16_29
+      rect:
+        serializedVersion: 2
+        x: 208
+        y: 240
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0bfbf99b79cb7476ebfc0606f306d763
+      internalID: -2956884551225661131
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SciFi-Tiles16x16_30
+      rect:
+        serializedVersion: 2
+        x: 224
+        y: 240
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8adc9e6149b494adab1767625348c6e6
+      internalID: -4642654715102525191
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SciFi-Tiles16x16_31
+      rect:
+        serializedVersion: 2
+        x: 240
+        y: 240
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: efd4b3befd3ea4ceda5ee273f3f0549f
+      internalID: -1525330246513216268
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SciFi-Tiles16x16_32
+      rect:
+        serializedVersion: 2
+        x: 256
+        y: 240
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ead22fb3b55404017985c886423f8d05
+      internalID: 6551400560805784849
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SciFi-Tiles16x16_33
+      rect:
+        serializedVersion: 2
+        x: 128
+        y: 224
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1d1b38a6225604d439efb96512af0afe
+      internalID: 5614604438533790299
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SciFi-Tiles16x16_34
+      rect:
+        serializedVersion: 2
+        x: 144
+        y: 224
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ab824ad361b854bcba55e0f21d536f71
+      internalID: -694670890146624772
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SciFi-Tiles16x16_35
+      rect:
+        serializedVersion: 2
+        x: 160
+        y: 224
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 84c68e8996c964a759ab87036e4a3ef2
+      internalID: -7268574516732164269
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SciFi-Tiles16x16_36
+      rect:
+        serializedVersion: 2
+        x: 176
+        y: 224
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 37dad25969864409799327b699c7abe7
+      internalID: -2500522267961501585
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SciFi-Tiles16x16_37
+      rect:
+        serializedVersion: 2
+        x: 192
+        y: 224
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6488ddbcf61814cc88b2a793f243d52c
+      internalID: -4676295344266321052
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SciFi-Tiles16x16_38
+      rect:
+        serializedVersion: 2
+        x: 208
+        y: 224
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: bd10ed0ae7ecb4a25b71c63fb3fe6e76
+      internalID: -9145805032249492211
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SciFi-Tiles16x16_39
+      rect:
+        serializedVersion: 2
+        x: 224
+        y: 224
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7ba2027828268425db52b8fc623fd49b
+      internalID: -6607229213796407201
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SciFi-Tiles16x16_40
+      rect:
+        serializedVersion: 2
+        x: 240
+        y: 224
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6762fc70079d54ea59a4005ecc6a5feb
+      internalID: 3419402159952661725
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SciFi-Tiles16x16_41
+      rect:
+        serializedVersion: 2
+        x: 256
+        y: 224
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 41c2e0f7585d8475bab58d30b17c3960
+      internalID: -2060963711135064634
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SciFi-Tiles16x16_42
+      rect:
+        serializedVersion: 2
+        x: 128
+        y: 208
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5e445a78b68544ec2baec9fcf2f93ecf
+      internalID: -317720332961193627
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SciFi-Tiles16x16_43
+      rect:
+        serializedVersion: 2
+        x: 144
+        y: 208
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 00f9715bad8854ce0a82c3d8f95a7bb8
+      internalID: -1825547252517249768
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SciFi-Tiles16x16_44
+      rect:
+        serializedVersion: 2
+        x: 160
+        y: 208
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b10077f490b254588b26e548e251f0e6
+      internalID: 8055972302836503410
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SciFi-Tiles16x16_45
+      rect:
+        serializedVersion: 2
+        x: 176
+        y: 208
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2f215008c3bf543c99b6f3fd1a8b1c2d
+      internalID: -4498431610816371577
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SciFi-Tiles16x16_46
+      rect:
+        serializedVersion: 2
+        x: 192
+        y: 208
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 74bfd5f3dec5d401ca8328e30cfdd3fe
+      internalID: -5060931790812752787
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SciFi-Tiles16x16_47
+      rect:
+        serializedVersion: 2
+        x: 208
+        y: 208
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 279c7b3b6d0924a1c92a6a3322580665
+      internalID: 6447665287626853120
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SciFi-Tiles16x16_48
+      rect:
+        serializedVersion: 2
+        x: 224
+        y: 208
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d3f02ec46c04b4ff8aee167b80a0c7c4
+      internalID: 7006200472262767
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SciFi-Tiles16x16_49
+      rect:
+        serializedVersion: 2
+        x: 240
+        y: 208
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4cb02df4f90ba4ae891bc6646e9b32d9
+      internalID: -4519048552881798507
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SciFi-Tiles16x16_50
+      rect:
+        serializedVersion: 2
+        x: 256
+        y: 208
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d08940b2903c14a4db894d2d4afed65d
+      internalID: 3019995406580120033
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SciFi-Tiles16x16_51
+      rect:
+        serializedVersion: 2
+        x: 128
+        y: 192
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2900edcc8849c413b8c902f1b9c3c582
+      internalID: 4134280732864554506
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SciFi-Tiles16x16_52
+      rect:
+        serializedVersion: 2
+        x: 144
+        y: 192
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5e553c8fb401f4faa864c98035cb4fda
+      internalID: -7868711245099485640
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SciFi-Tiles16x16_53
+      rect:
+        serializedVersion: 2
+        x: 160
+        y: 192
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 811777a2e52d94154a1f57a976afbfbe
+      internalID: 5035796838037566286
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SciFi-Tiles16x16_54
+      rect:
+        serializedVersion: 2
+        x: 176
+        y: 192
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: db29f497586614c1797fe6e67260a189
+      internalID: 871469291785354377
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SciFi-Tiles16x16_55
+      rect:
+        serializedVersion: 2
+        x: 192
+        y: 192
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9f32757c4418e471e9473cdfefc7bd33
+      internalID: 5062870135453217084
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SciFi-Tiles16x16_56
+      rect:
+        serializedVersion: 2
+        x: 208
+        y: 192
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e977fe6fcdd1d4e48ad649d2f7dc534e
+      internalID: 2511913298219743007
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SciFi-Tiles16x16_57
+      rect:
+        serializedVersion: 2
+        x: 224
+        y: 192
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e7a89026fcf9342efa4a9c7a52fccfe0
+      internalID: 544494226028698479
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SciFi-Tiles16x16_58
+      rect:
+        serializedVersion: 2
+        x: 240
+        y: 192
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 608d11bbf5ce94a9a88eb04db6881fa0
+      internalID: 7110841498242144620
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SciFi-Tiles16x16_59
+      rect:
+        serializedVersion: 2
+        x: 256
+        y: 192
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7bacff7ae781d4e75a9e33865c36ae30
+      internalID: -5854732104963420975
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SciFi-Tiles16x16_60
+      rect:
+        serializedVersion: 2
+        x: 128
+        y: 176
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 219951d742e8445cf86697bdc97834f9
+      internalID: -5193887927579395324
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SciFi-Tiles16x16_61
+      rect:
+        serializedVersion: 2
+        x: 144
+        y: 176
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b827be1cf28b743c38e993ce303c610b
+      internalID: -4507248930015944986
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SciFi-Tiles16x16_62
+      rect:
+        serializedVersion: 2
+        x: 160
+        y: 176
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 08571be582ecd4b0a8e484b88be68050
+      internalID: -5235329729865700991
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SciFi-Tiles16x16_63
+      rect:
+        serializedVersion: 2
+        x: 176
+        y: 176
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b46a1b8b1106f4115995a0d304395ddd
+      internalID: -2075161787709265167
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SciFi-Tiles16x16_64
+      rect:
+        serializedVersion: 2
+        x: 192
+        y: 176
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0d90a4343a5e5484cbc4f747c0cc97da
+      internalID: -113917991087811376
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SciFi-Tiles16x16_65
+      rect:
+        serializedVersion: 2
+        x: 208
+        y: 176
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8d5e3dc6a58b7403697153516a907579
+      internalID: -2118541738871631667
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SciFi-Tiles16x16_66
+      rect:
+        serializedVersion: 2
+        x: 224
+        y: 176
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f84e20d4a39a54d12baf9f7d8d56f330
+      internalID: -8972805640040588617
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SciFi-Tiles16x16_67
+      rect:
+        serializedVersion: 2
+        x: 240
+        y: 176
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c70fffd22e94f444fa3eedcf9bb0ba34
+      internalID: 1998061115021494959
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SciFi-Tiles16x16_68
+      rect:
+        serializedVersion: 2
+        x: 256
+        y: 176
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f496d2861537a48c291dcd3818f4236d
+      internalID: 322119836388094052
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SciFi-Tiles16x16_69
+      rect:
+        serializedVersion: 2
+        x: 128
+        y: 160
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 656313ce91bdb4595966c382c4eaaa61
+      internalID: 7578531707299089862
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SciFi-Tiles16x16_70
+      rect:
+        serializedVersion: 2
+        x: 144
+        y: 160
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 205a535d982ec40fa9a78a76275a4e9c
+      internalID: 2939715021200958864
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SciFi-Tiles16x16_71
+      rect:
+        serializedVersion: 2
+        x: 160
+        y: 160
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b3a3c95df7fa0420c89b6b34b50c9c36
+      internalID: 6968471161377440127
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SciFi-Tiles16x16_72
+      rect:
+        serializedVersion: 2
+        x: 176
+        y: 160
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 43c72bca9d9a7457197a0a882a3e63e6
+      internalID: -7192094824147715775
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SciFi-Tiles16x16_73
+      rect:
+        serializedVersion: 2
+        x: 192
+        y: 160
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c7b987ed8fccd4bc5b56154afab37c48
+      internalID: 4071958025343869679
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SciFi-Tiles16x16_74
+      rect:
+        serializedVersion: 2
+        x: 208
+        y: 160
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 93a48d0db1614490da71a9c7c6adbde1
+      internalID: 3962765372612549147
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SciFi-Tiles16x16_75
+      rect:
+        serializedVersion: 2
+        x: 224
+        y: 160
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9bd306ad8d2de41c3a80bb49e6e19c25
+      internalID: -2458318694743180320
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SciFi-Tiles16x16_76
+      rect:
+        serializedVersion: 2
+        x: 240
+        y: 160
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 79d5f971bef884b64ae2b4b90d36cd55
+      internalID: 954207375815052364
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SciFi-Tiles16x16_77
+      rect:
+        serializedVersion: 2
+        x: 256
+        y: 160
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f9e9a964c99f64d41be68339e6c1f975
+      internalID: 6393392424528169513
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SciFi-Tiles16x16_78
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 144
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1caf02ab0ace34cf59b53f7c923d4c45
+      internalID: 526966650621280321
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SciFi-Tiles16x16_79
+      rect:
+        serializedVersion: 2
+        x: 16
+        y: 144
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 05a3528bdfb114d1aace6ab236e5c53e
+      internalID: -8350739514716204630
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SciFi-Tiles16x16_80
+      rect:
+        serializedVersion: 2
+        x: 32
+        y: 144
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e27b8c27f10b7482fbada8565858e82e
+      internalID: -1327126788087733398
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SciFi-Tiles16x16_81
+      rect:
+        serializedVersion: 2
+        x: 48
+        y: 144
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: fab24911133354a798850c4561beb217
+      internalID: -7594118721937333662
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SciFi-Tiles16x16_82
+      rect:
+        serializedVersion: 2
+        x: 64
+        y: 144
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 082f7c7622d724aa8ac7f87be29a24a0
+      internalID: 7671143330430486522
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SciFi-Tiles16x16_83
+      rect:
+        serializedVersion: 2
+        x: 80
+        y: 144
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f210d55cf5f49447bb8e27ffa6388eb3
+      internalID: -1021220919068089201
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SciFi-Tiles16x16_84
+      rect:
+        serializedVersion: 2
+        x: 96
+        y: 144
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 67f57795bbc334db59af6b60efa0e636
+      internalID: 5340898353855185011
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SciFi-Tiles16x16_85
+      rect:
+        serializedVersion: 2
+        x: 112
+        y: 144
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 415e6a831adc8480a9b97cd76900f7ed
+      internalID: 2112360977234673168
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SciFi-Tiles16x16_86
+      rect:
+        serializedVersion: 2
+        x: 128
+        y: 144
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5c09e16742dfb495fae86adddf586f1c
+      internalID: -6712372498420239789
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SciFi-Tiles16x16_87
+      rect:
+        serializedVersion: 2
+        x: 144
+        y: 144
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a5411445861dc4a85ac33a61fdfe1f59
+      internalID: 8942090042699815869
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SciFi-Tiles16x16_88
+      rect:
+        serializedVersion: 2
+        x: 160
+        y: 144
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: fe23818bb88954a20b331d80a35a4e55
+      internalID: -4303619763746951453
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SciFi-Tiles16x16_89
+      rect:
+        serializedVersion: 2
+        x: 176
+        y: 144
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9075518bf463d48c5a6dc3ad059fb11c
+      internalID: 8542435161312249399
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SciFi-Tiles16x16_90
+      rect:
+        serializedVersion: 2
+        x: 192
+        y: 144
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3db067feebf544a1c90d08d9d518eec1
+      internalID: -4114472920755333867
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SciFi-Tiles16x16_91
+      rect:
+        serializedVersion: 2
+        x: 208
+        y: 144
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: cd0770353a1844102b60990973bb2e81
+      internalID: -7897045536759377203
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SciFi-Tiles16x16_92
+      rect:
+        serializedVersion: 2
+        x: 224
+        y: 144
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: bb1f5f739ba9744f59b5a6803b2f18ae
+      internalID: 1090177969959965520
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SciFi-Tiles16x16_93
+      rect:
+        serializedVersion: 2
+        x: 240
+        y: 144
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 87ad6ac8c217f42b7b8697ca7ae71ce9
+      internalID: 4024757290223358825
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SciFi-Tiles16x16_94
+      rect:
+        serializedVersion: 2
+        x: 256
+        y: 144
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f018406a7eeab4e6490a7c3377d6c25a
+      internalID: -316140828528007587
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SciFi-Tiles16x16_95
+      rect:
+        serializedVersion: 2
+        x: 272
+        y: 144
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6c428832e50c844e2888cb28e012c05f
+      internalID: -8407329115136514544
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SciFi-Tiles16x16_96
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 128
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8c775a5180e044a04b898d5b348ccef0
+      internalID: 8414050507938177635
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SciFi-Tiles16x16_97
+      rect:
+        serializedVersion: 2
+        x: 16
+        y: 128
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7ec696e4249114f869000721b863752e
+      internalID: 6517698085529889166
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SciFi-Tiles16x16_98
+      rect:
+        serializedVersion: 2
+        x: 32
+        y: 128
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8d8b98f3c57664db1a8f608d23d76a91
+      internalID: 303295317758399275
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SciFi-Tiles16x16_99
+      rect:
+        serializedVersion: 2
+        x: 48
+        y: 128
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3d240a5cf52e349d6b85196de8403a1c
+      internalID: 3735884247801660157
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SciFi-Tiles16x16_100
+      rect:
+        serializedVersion: 2
+        x: 64
+        y: 128
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 086ba3047b2d4455dbf2caa1cbe27acb
+      internalID: -8200248283103490892
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SciFi-Tiles16x16_101
+      rect:
+        serializedVersion: 2
+        x: 80
+        y: 128
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 963d1cf5c582a465096b71dc0baf4d7f
+      internalID: -8761231103490947199
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SciFi-Tiles16x16_102
+      rect:
+        serializedVersion: 2
+        x: 96
+        y: 128
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: cd86022979ca44735a59e84e310c3f7d
+      internalID: -610505621998442896
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SciFi-Tiles16x16_103
+      rect:
+        serializedVersion: 2
+        x: 112
+        y: 128
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5b38d637983994688bfa85067cad361f
+      internalID: -3148899134461897951
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SciFi-Tiles16x16_104
+      rect:
+        serializedVersion: 2
+        x: 128
+        y: 128
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 988b2dba66e954e809a44019223cce67
+      internalID: 8641826606773885089
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SciFi-Tiles16x16_105
+      rect:
+        serializedVersion: 2
+        x: 144
+        y: 128
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b0574689a5ea643889e0a1f73211130d
+      internalID: 1315100917627092493
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SciFi-Tiles16x16_106
+      rect:
+        serializedVersion: 2
+        x: 160
+        y: 128
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8299cb8667d3b48728b2ac2a24a65fc7
+      internalID: 8186903864309445501
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SciFi-Tiles16x16_107
+      rect:
+        serializedVersion: 2
+        x: 176
+        y: 128
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 42dc81850161c43f3aa680a8a90ff4dc
+      internalID: -3452312759370127288
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SciFi-Tiles16x16_108
+      rect:
+        serializedVersion: 2
+        x: 192
+        y: 128
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 671b9972a94a9477e98b10eb8995866b
+      internalID: -454257923262631825
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SciFi-Tiles16x16_109
+      rect:
+        serializedVersion: 2
+        x: 208
+        y: 128
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0a9a02e7e85cd4e0580fdc07784e04f3
+      internalID: -2320381209882659946
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SciFi-Tiles16x16_110
+      rect:
+        serializedVersion: 2
+        x: 224
+        y: 128
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: bcd8a344962394bc594fbdf94693d38d
+      internalID: 6966612546459599066
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SciFi-Tiles16x16_111
+      rect:
+        serializedVersion: 2
+        x: 240
+        y: 128
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 84fe7adbec58a4b669fe7e7401f9f970
+      internalID: -6555277451003214727
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SciFi-Tiles16x16_112
+      rect:
+        serializedVersion: 2
+        x: 256
+        y: 128
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a5a767e2c0ca742588f21ef4bcef1bee
+      internalID: -4152678965100649940
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SciFi-Tiles16x16_113
+      rect:
+        serializedVersion: 2
+        x: 272
+        y: 128
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0572b5c51b8ed4d5db3dccd8e8b1f926
+      internalID: -5047599113987533086
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SciFi-Tiles16x16_114
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 112
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: aa8c9a3c3e4314ea580565ba7ec06d1f
+      internalID: 1781523495331199127
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SciFi-Tiles16x16_115
+      rect:
+        serializedVersion: 2
+        x: 16
+        y: 112
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 22eec9d9298944049a62436f5127cb0f
+      internalID: 7101301549565872075
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SciFi-Tiles16x16_116
+      rect:
+        serializedVersion: 2
+        x: 32
+        y: 112
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 56ca372ea65fc45de9b547c5f3499f0f
+      internalID: -8173230796767677175
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SciFi-Tiles16x16_117
+      rect:
+        serializedVersion: 2
+        x: 48
+        y: 112
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a472447e9c1974bbbb29842f45a2d188
+      internalID: 8741421058025379954
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SciFi-Tiles16x16_118
+      rect:
+        serializedVersion: 2
+        x: 64
+        y: 112
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: af8bfd149ccd2470b99071d1d9b29b4e
+      internalID: 1931524364193267539
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SciFi-Tiles16x16_119
+      rect:
+        serializedVersion: 2
+        x: 80
+        y: 112
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 216350d50fb114bf58d052801e00a761
+      internalID: 2390674053547165070
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SciFi-Tiles16x16_120
+      rect:
+        serializedVersion: 2
+        x: 96
+        y: 112
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 311a1f76223a24f9d8fe8842dd8927d3
+      internalID: -7491472996788519013
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SciFi-Tiles16x16_121
+      rect:
+        serializedVersion: 2
+        x: 112
+        y: 112
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6d6af1ed204b64d908dd84c7df97de12
+      internalID: -837600413809037343
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SciFi-Tiles16x16_122
+      rect:
+        serializedVersion: 2
+        x: 128
+        y: 112
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 845fb3635247346fca5afff29300e7c1
+      internalID: 6865438111700132147
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SciFi-Tiles16x16_123
+      rect:
+        serializedVersion: 2
+        x: 144
+        y: 112
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 62338f0a6b355417783b960acded4474
+      internalID: 963435047531776660
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SciFi-Tiles16x16_124
+      rect:
+        serializedVersion: 2
+        x: 160
+        y: 112
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: dadab29fd758046a58a1ae67146b69e2
+      internalID: -7739874488578695111
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SciFi-Tiles16x16_125
+      rect:
+        serializedVersion: 2
+        x: 176
+        y: 112
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e65ca70c4006b4dd18386fee65800327
+      internalID: 6249993639308991484
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SciFi-Tiles16x16_126
+      rect:
+        serializedVersion: 2
+        x: 192
+        y: 112
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 48404b5613a12408bac49aa7f03e6313
+      internalID: 2446683500765639117
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SciFi-Tiles16x16_127
+      rect:
+        serializedVersion: 2
+        x: 208
+        y: 112
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4528206c423154fd5a304fc909b571c2
+      internalID: 2993570299112981902
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SciFi-Tiles16x16_128
+      rect:
+        serializedVersion: 2
+        x: 224
+        y: 112
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a28eeb609f5f846eeb056b0055adb95c
+      internalID: -5067562026782810718
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SciFi-Tiles16x16_129
+      rect:
+        serializedVersion: 2
+        x: 240
+        y: 112
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4cac7784368fb4587852fc062d543934
+      internalID: -6867902971114057292
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SciFi-Tiles16x16_130
+      rect:
+        serializedVersion: 2
+        x: 256
+        y: 112
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b6420055e4add482cb62d4a4c3520e7c
+      internalID: 8425304371320302571
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SciFi-Tiles16x16_131
+      rect:
+        serializedVersion: 2
+        x: 272
+        y: 112
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1fbe463a02e5b4462b3ce0fda468c183
+      internalID: 8038306874520407776
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SciFi-Tiles16x16_132
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 96
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: aca1677b396924faba65645a4724389b
+      internalID: 8618386012775135940
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SciFi-Tiles16x16_133
+      rect:
+        serializedVersion: 2
+        x: 16
+        y: 96
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 99a1f66fab41646f6be69a471a5bd004
+      internalID: -6554948015971101638
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SciFi-Tiles16x16_134
+      rect:
+        serializedVersion: 2
+        x: 32
+        y: 96
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 873db0ae76b4341f9845105bd861c5bb
+      internalID: 2555802214909021754
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SciFi-Tiles16x16_135
+      rect:
+        serializedVersion: 2
+        x: 48
+        y: 96
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: befb76ba0e44a4e24bdb1ce1f07fd2b9
+      internalID: -2495275634251929764
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SciFi-Tiles16x16_136
+      rect:
+        serializedVersion: 2
+        x: 64
+        y: 96
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0e4712695b22a4c3a9bd4c2820d5fb98
+      internalID: 7838693515605579635
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SciFi-Tiles16x16_137
+      rect:
+        serializedVersion: 2
+        x: 80
+        y: 96
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b0a91f0d03fad4fd8acf42ec791c50ed
+      internalID: -6569948375054057315
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SciFi-Tiles16x16_138
+      rect:
+        serializedVersion: 2
+        x: 96
+        y: 96
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ca42909044d9243a2bbc2a1a375024ac
+      internalID: 4764769308663109480
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SciFi-Tiles16x16_139
+      rect:
+        serializedVersion: 2
+        x: 112
+        y: 96
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: cd16813683a0e41b78b164716a9695ca
+      internalID: -654546890710880771
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SciFi-Tiles16x16_140
+      rect:
+        serializedVersion: 2
+        x: 128
+        y: 96
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6f180a35fcc864edf88853e5485361ad
+      internalID: 3948653721152285478
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SciFi-Tiles16x16_141
+      rect:
+        serializedVersion: 2
+        x: 144
+        y: 96
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ce95619edbeeb4001a8eb8f191296471
+      internalID: 1508448935370298496
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SciFi-Tiles16x16_142
+      rect:
+        serializedVersion: 2
+        x: 160
+        y: 96
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 09f25dd317f734cc6852a006a2774dc0
+      internalID: 5993600364017410353
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SciFi-Tiles16x16_143
+      rect:
+        serializedVersion: 2
+        x: 176
+        y: 96
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 09f1b9d824429486d908e99bb1549e8f
+      internalID: -3590077748567002707
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SciFi-Tiles16x16_144
+      rect:
+        serializedVersion: 2
+        x: 192
+        y: 96
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7ad1013160b124bf8b7f19eb884d500c
+      internalID: 6766373430959969945
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SciFi-Tiles16x16_145
+      rect:
+        serializedVersion: 2
+        x: 208
+        y: 96
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ad372f59b97c447ac83cbab8949bcfb6
+      internalID: -305994298006219373
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SciFi-Tiles16x16_146
+      rect:
+        serializedVersion: 2
+        x: 224
+        y: 96
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4d344f6ea353342e58a27cda54b89d72
+      internalID: 5319861971855762053
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SciFi-Tiles16x16_147
+      rect:
+        serializedVersion: 2
+        x: 240
+        y: 96
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 28af3ee91faed4939b2555452b7e44a5
+      internalID: 1499266425247002582
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SciFi-Tiles16x16_148
+      rect:
+        serializedVersion: 2
+        x: 256
+        y: 96
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b299abf9b601f476cbf16edd6b74712c
+      internalID: 3479495846904794639
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SciFi-Tiles16x16_149
+      rect:
+        serializedVersion: 2
+        x: 272
+        y: 96
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a0a2094bc6add41469524d85673b197f
+      internalID: 3800199414727369869
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SciFi-Tiles16x16_150
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 80
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: bf8395b31fcc2497dad02b1f113c6c7b
+      internalID: 5259443503979372188
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SciFi-Tiles16x16_151
+      rect:
+        serializedVersion: 2
+        x: 16
+        y: 80
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e20a6eee732f3450c8ae50a2978dc6c8
+      internalID: 5119236322317193687
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SciFi-Tiles16x16_152
+      rect:
+        serializedVersion: 2
+        x: 32
+        y: 80
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: fe31adbb3d0e44b99a665768d8f66794
+      internalID: 6024064863258554229
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SciFi-Tiles16x16_153
+      rect:
+        serializedVersion: 2
+        x: 48
+        y: 80
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1fea2e18e5c49435f9540ae6a8e9aac2
+      internalID: -4171279306066360240
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SciFi-Tiles16x16_154
+      rect:
+        serializedVersion: 2
+        x: 64
+        y: 80
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ce130c654bdaa426d8cfb54cd9a48cd6
+      internalID: 748647164362603517
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SciFi-Tiles16x16_155
+      rect:
+        serializedVersion: 2
+        x: 80
+        y: 80
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0ef70bc377254447481630344c91e1ae
+      internalID: 4366290156911081945
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SciFi-Tiles16x16_156
+      rect:
+        serializedVersion: 2
+        x: 96
+        y: 80
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 96f66cbd528c04fb0b157c7ce77719b6
+      internalID: -6846508180631656993
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SciFi-Tiles16x16_157
+      rect:
+        serializedVersion: 2
+        x: 112
+        y: 80
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ded0b1dde1b5a4404be8ef22c09fd309
+      internalID: -7046845192018784535
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SciFi-Tiles16x16_158
+      rect:
+        serializedVersion: 2
+        x: 128
+        y: 80
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 91645110dd9ee4aa4943154e17305409
+      internalID: -8774466088509604215
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SciFi-Tiles16x16_159
+      rect:
+        serializedVersion: 2
+        x: 144
+        y: 80
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5a2323376614d4bfa940fb47e75a7dfd
+      internalID: 8588463843615026856
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SciFi-Tiles16x16_160
+      rect:
+        serializedVersion: 2
+        x: 160
+        y: 80
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 54276bffbb2a746d180abd91d58a5e41
+      internalID: 8313203904471335074
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SciFi-Tiles16x16_161
+      rect:
+        serializedVersion: 2
+        x: 176
+        y: 80
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e6748458eaddb48d0aa19a9efa906009
+      internalID: 7207827778734456089
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SciFi-Tiles16x16_162
+      rect:
+        serializedVersion: 2
+        x: 192
+        y: 80
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: cab9ef1c5f73f4878b4b0d99faddbff0
+      internalID: 1243655224882747727
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SciFi-Tiles16x16_163
+      rect:
+        serializedVersion: 2
+        x: 208
+        y: 80
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2e673296a344946118bfa03989cc60ac
+      internalID: -8634104093281754119
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SciFi-Tiles16x16_164
+      rect:
+        serializedVersion: 2
+        x: 224
+        y: 80
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a386397e86d8e4ff4a60369b01422d48
+      internalID: -1227703121776105600
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SciFi-Tiles16x16_165
+      rect:
+        serializedVersion: 2
+        x: 240
+        y: 80
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f2a909499fc194eaea568a57a9517adb
+      internalID: 4258902573230173635
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SciFi-Tiles16x16_166
+      rect:
+        serializedVersion: 2
+        x: 256
+        y: 80
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 425c4c4d27f7b49318c210f499b784d1
+      internalID: -3177602923335839869
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SciFi-Tiles16x16_167
+      rect:
+        serializedVersion: 2
+        x: 272
+        y: 80
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7f0ffc363e97544ab9ee804240b27eb4
+      internalID: 3606822046044932765
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SciFi-Tiles16x16_168
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 64
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 58cabd3fcee514fc9b0496deec6e3976
+      internalID: 7716551189357818044
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SciFi-Tiles16x16_169
+      rect:
+        serializedVersion: 2
+        x: 16
+        y: 64
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 836eb141d9271499cb61b28a87201e1e
+      internalID: 6234325032524605432
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SciFi-Tiles16x16_170
+      rect:
+        serializedVersion: 2
+        x: 32
+        y: 64
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: edf93800116c5484b8802d7eb474cf56
+      internalID: -4861806931549393827
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SciFi-Tiles16x16_171
+      rect:
+        serializedVersion: 2
+        x: 48
+        y: 64
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7942db3d987fb4ee1a57ff4e71edd1e6
+      internalID: 5009750092891691330
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SciFi-Tiles16x16_172
+      rect:
+        serializedVersion: 2
+        x: 64
+        y: 64
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9797d67fd35114eed9ee8592deea7423
+      internalID: -6639168410909935627
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SciFi-Tiles16x16_173
+      rect:
+        serializedVersion: 2
+        x: 80
+        y: 64
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 52b2a51aa93f24c2f89853077b70cde2
+      internalID: -5417626833300643085
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SciFi-Tiles16x16_174
+      rect:
+        serializedVersion: 2
+        x: 96
+        y: 64
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3c14e0a00588d4dda8fd2b9b51a6234c
+      internalID: 6440821912346014837
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SciFi-Tiles16x16_175
+      rect:
+        serializedVersion: 2
+        x: 112
+        y: 64
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 10c39c76cb8f34008a7154fa55ca9789
+      internalID: -5583082869026622756
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SciFi-Tiles16x16_176
+      rect:
+        serializedVersion: 2
+        x: 128
+        y: 64
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7c473048b740f4018a57f08817d3d034
+      internalID: -3000420291804355889
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SciFi-Tiles16x16_177
+      rect:
+        serializedVersion: 2
+        x: 144
+        y: 64
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 626274284c7024152b8b3647ba743937
+      internalID: -7575703152404151460
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SciFi-Tiles16x16_178
+      rect:
+        serializedVersion: 2
+        x: 160
+        y: 64
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c9de6722095c34ee88a175da9b8fc9b7
+      internalID: -7904883113897178280
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SciFi-Tiles16x16_179
+      rect:
+        serializedVersion: 2
+        x: 176
+        y: 64
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 03a49d5a2fcf040d5ade23e2cbcc52d3
+      internalID: -1371726894847782919
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SciFi-Tiles16x16_180
+      rect:
+        serializedVersion: 2
+        x: 192
+        y: 64
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1195f6722fce94ab3b176e95fe2bf56c
+      internalID: -7598726831703475022
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SciFi-Tiles16x16_181
+      rect:
+        serializedVersion: 2
+        x: 208
+        y: 64
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 98e1fa8659955496ea91ee22e036d416
+      internalID: 4118159359902297182
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SciFi-Tiles16x16_182
+      rect:
+        serializedVersion: 2
+        x: 224
+        y: 64
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 77359c5bff3d444eb92dcc26a0ef469e
+      internalID: 4698696594882296935
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SciFi-Tiles16x16_183
+      rect:
+        serializedVersion: 2
+        x: 240
+        y: 64
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 150f66f8f3ec8427485e6664e9107a8c
+      internalID: 7705519471460315145
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SciFi-Tiles16x16_184
+      rect:
+        serializedVersion: 2
+        x: 256
+        y: 64
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f7a2bfc02beba4a5b839601ff266409a
+      internalID: 4356791686029856472
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SciFi-Tiles16x16_185
+      rect:
+        serializedVersion: 2
+        x: 272
+        y: 64
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: eaae59ac034a641938692e7078fcb9fa
+      internalID: 2674883004896706462
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SciFi-Tiles16x16_186
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 48
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: bfea4ec072b004f26bcf226b8d1eee32
+      internalID: 1532426390431385371
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SciFi-Tiles16x16_187
+      rect:
+        serializedVersion: 2
+        x: 16
+        y: 48
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 20a2455fde4704fc1a1db558c90e1ebd
+      internalID: -1528969483015836754
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SciFi-Tiles16x16_188
+      rect:
+        serializedVersion: 2
+        x: 32
+        y: 48
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a35e6cb53ca9b4aa0ba34c124195d710
+      internalID: -8626111508415425452
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SciFi-Tiles16x16_189
+      rect:
+        serializedVersion: 2
+        x: 48
+        y: 48
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 45c6c503273644284b68b5772d4b022c
+      internalID: 586703721409025024
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SciFi-Tiles16x16_190
+      rect:
+        serializedVersion: 2
+        x: 64
+        y: 48
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e234a86ab17b34b1089364df7c79b69f
+      internalID: 3460379256623031664
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SciFi-Tiles16x16_191
+      rect:
+        serializedVersion: 2
+        x: 80
+        y: 48
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1d4194af477814d2eb202c78a542f205
+      internalID: -5745035914568444273
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SciFi-Tiles16x16_192
+      rect:
+        serializedVersion: 2
+        x: 96
+        y: 48
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 30d5263f3cfc846b082b94a3d8bf14c2
+      internalID: -637615072778500398
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SciFi-Tiles16x16_193
+      rect:
+        serializedVersion: 2
+        x: 112
+        y: 48
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 587cede599cf14c90a5de28da67eb1d1
+      internalID: -996423897110066563
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SciFi-Tiles16x16_194
+      rect:
+        serializedVersion: 2
+        x: 128
+        y: 48
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8f1efe78887de492eba047dfcf3ebbc3
+      internalID: -3329464173011615438
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SciFi-Tiles16x16_195
+      rect:
+        serializedVersion: 2
+        x: 144
+        y: 48
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7d9ed0074d2ef455788d6b6b9fda0460
+      internalID: -4647451779791968791
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SciFi-Tiles16x16_196
+      rect:
+        serializedVersion: 2
+        x: 160
+        y: 48
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 25390ed96faeb45f99b72e70b1f0b96d
+      internalID: -7768986395254196099
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SciFi-Tiles16x16_197
+      rect:
+        serializedVersion: 2
+        x: 176
+        y: 48
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3c213ff909f084ad8993ec0d5b855f6c
+      internalID: 3623280638904360837
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SciFi-Tiles16x16_198
+      rect:
+        serializedVersion: 2
+        x: 192
+        y: 48
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1f3e35f6d6e184741a19550dc0bba7bb
+      internalID: -7431523383719655847
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SciFi-Tiles16x16_199
+      rect:
+        serializedVersion: 2
+        x: 208
+        y: 48
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9870f5afe58e145d9a6edeb8a53c598a
+      internalID: 8225645536565225970
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SciFi-Tiles16x16_200
+      rect:
+        serializedVersion: 2
+        x: 224
+        y: 48
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 22ed12b7af32f42d58e40aade39d09ec
+      internalID: -1495458850108751316
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SciFi-Tiles16x16_201
+      rect:
+        serializedVersion: 2
+        x: 240
+        y: 48
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2ff25f45a4e26439cb80fd17156b7f03
+      internalID: -3026008230052133713
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SciFi-Tiles16x16_202
+      rect:
+        serializedVersion: 2
+        x: 256
+        y: 48
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 13515049324ad424e9ffc5435ac0cc61
+      internalID: -3536455150538869939
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SciFi-Tiles16x16_203
+      rect:
+        serializedVersion: 2
+        x: 272
+        y: 48
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 59174633090d746f198abcabc8caa42f
+      internalID: 6346794481278033272
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SciFi-Tiles16x16_204
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 32
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: cefdc963569ee4679846d8da00d99380
+      internalID: 2963302104463150044
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SciFi-Tiles16x16_205
+      rect:
+        serializedVersion: 2
+        x: 16
+        y: 32
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 38b6efaee3f9b48b4a4eb85b8d74cc7f
+      internalID: 6043424369908478893
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SciFi-Tiles16x16_206
+      rect:
+        serializedVersion: 2
+        x: 32
+        y: 32
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7ed0a592d0616440bb94086c4e4169b4
+      internalID: -6893917383323321580
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SciFi-Tiles16x16_207
+      rect:
+        serializedVersion: 2
+        x: 48
+        y: 32
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 227b9858c7a2e4e03acd5dda097c4b4d
+      internalID: 572510374549423588
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SciFi-Tiles16x16_208
+      rect:
+        serializedVersion: 2
+        x: 64
+        y: 32
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 065e03d805c174e03902b10f3692b160
+      internalID: 3213256973906185420
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SciFi-Tiles16x16_209
+      rect:
+        serializedVersion: 2
+        x: 80
+        y: 32
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 26bbbcebf389a41b4a545a9fb6ae87b8
+      internalID: -2718965588715585222
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SciFi-Tiles16x16_210
+      rect:
+        serializedVersion: 2
+        x: 96
+        y: 32
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 25ddcf565ddd44473ab7064615d9dd5c
+      internalID: 7437266670749559996
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SciFi-Tiles16x16_211
+      rect:
+        serializedVersion: 2
+        x: 112
+        y: 32
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 33c33b904426a455e943436c41fc2e6d
+      internalID: 1017305479338006481
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SciFi-Tiles16x16_212
+      rect:
+        serializedVersion: 2
+        x: 128
+        y: 32
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4f1e6ab5b59e546919d652d42c8dd354
+      internalID: 2592736922779880606
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SciFi-Tiles16x16_213
+      rect:
+        serializedVersion: 2
+        x: 144
+        y: 32
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b8b0781510145469281561b36cb4520e
+      internalID: 8018342510793664681
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SciFi-Tiles16x16_214
+      rect:
+        serializedVersion: 2
+        x: 160
+        y: 32
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c9c7613bc850142e19f5e0a0d0464c7f
+      internalID: -4034105646995727625
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SciFi-Tiles16x16_215
+      rect:
+        serializedVersion: 2
+        x: 176
+        y: 32
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 44f17472bd4f94789be346b6eeb386cb
+      internalID: 1059571894989823650
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SciFi-Tiles16x16_216
+      rect:
+        serializedVersion: 2
+        x: 192
+        y: 32
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b09eeff64c42141c9badb6d987eb836e
+      internalID: 569692857061873147
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SciFi-Tiles16x16_217
+      rect:
+        serializedVersion: 2
+        x: 208
+        y: 32
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e4f9f97ed7b0a487189b217afc278fde
+      internalID: -7598116547554745778
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SciFi-Tiles16x16_218
+      rect:
+        serializedVersion: 2
+        x: 224
+        y: 32
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4320522fb816d407e96871604e511e2d
+      internalID: -4175579280172098572
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SciFi-Tiles16x16_219
+      rect:
+        serializedVersion: 2
+        x: 240
+        y: 32
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d93a8957843214d669adb576daf513d0
+      internalID: 1092899550755389896
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SciFi-Tiles16x16_220
+      rect:
+        serializedVersion: 2
+        x: 256
+        y: 32
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 29b4f515949a1484e92aa5c171500b4c
+      internalID: -6726946718169029430
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SciFi-Tiles16x16_221
+      rect:
+        serializedVersion: 2
+        x: 272
+        y: 32
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f793b602043d0498eb6cf1f61f6ee8a7
+      internalID: 3398791089100582657
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SciFi-Tiles16x16_222
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 16
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 651b6367ca05e4bc2bb616fe953bd2ff
+      internalID: 5978709776920706945
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SciFi-Tiles16x16_223
+      rect:
+        serializedVersion: 2
+        x: 16
+        y: 16
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4989a368693594839a512286b1aa7717
+      internalID: 5276482947081469754
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SciFi-Tiles16x16_224
+      rect:
+        serializedVersion: 2
+        x: 32
+        y: 16
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1e0e94bcd036c475e882f6712c6c3ff9
+      internalID: 6923824190249664499
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SciFi-Tiles16x16_225
+      rect:
+        serializedVersion: 2
+        x: 48
+        y: 16
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 97bab39b406a94077a447739483f0d69
+      internalID: -4294224505294577450
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SciFi-Tiles16x16_226
+      rect:
+        serializedVersion: 2
+        x: 64
+        y: 16
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7f64fa502f026448d895fadb667948cd
+      internalID: -6950532909315136451
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SciFi-Tiles16x16_227
+      rect:
+        serializedVersion: 2
+        x: 80
+        y: 16
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3bcc687755cf04ae19107758a06d935f
+      internalID: -2476965934387739861
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SciFi-Tiles16x16_228
+      rect:
+        serializedVersion: 2
+        x: 96
+        y: 16
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8e5ed7f00466a46af8aba9d61af12e32
+      internalID: 8507918440555606305
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SciFi-Tiles16x16_229
+      rect:
+        serializedVersion: 2
+        x: 112
+        y: 16
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7312c7cc287254b7399925411487001c
+      internalID: 5230008485312199786
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SciFi-Tiles16x16_230
+      rect:
+        serializedVersion: 2
+        x: 128
+        y: 16
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 037199562898349f99fecb48f2c1454b
+      internalID: 8636781273713687122
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SciFi-Tiles16x16_231
+      rect:
+        serializedVersion: 2
+        x: 144
+        y: 16
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 86619ca62d96549c1b7685260f4ce7f1
+      internalID: 8363261268665645069
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SciFi-Tiles16x16_232
+      rect:
+        serializedVersion: 2
+        x: 160
+        y: 16
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4d1af05cce7884367a2691259001ef58
+      internalID: 7578185601630758126
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SciFi-Tiles16x16_233
+      rect:
+        serializedVersion: 2
+        x: 176
+        y: 16
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 492157952de954b3d90bb3e43cd13dfb
+      internalID: -3366472753766521508
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SciFi-Tiles16x16_234
+      rect:
+        serializedVersion: 2
+        x: 192
+        y: 16
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: fdab6a07d326649ff94d3b74aea8c512
+      internalID: 2999164898928457813
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SciFi-Tiles16x16_235
+      rect:
+        serializedVersion: 2
+        x: 208
+        y: 16
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3c92baeee0b2f48ee950b6c0f2d5e285
+      internalID: 6857385553500717646
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SciFi-Tiles16x16_236
+      rect:
+        serializedVersion: 2
+        x: 224
+        y: 16
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 25a0168c49e254277a7abd715b015b50
+      internalID: 2075859144613520803
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SciFi-Tiles16x16_237
+      rect:
+        serializedVersion: 2
+        x: 240
+        y: 16
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 66cf702e71fca4c72be6052e6f173b78
+      internalID: 3773573507229145863
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SciFi-Tiles16x16_238
+      rect:
+        serializedVersion: 2
+        x: 256
+        y: 16
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8d0f682a4fad04459833cd46d2ccdf9b
+      internalID: 1668076452095708468
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SciFi-Tiles16x16_239
+      rect:
+        serializedVersion: 2
+        x: 272
+        y: 16
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 13ba0376220554dcda407c34b69d3e11
+      internalID: -235319366597968647
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SciFi-Tiles16x16_240
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 0
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2907bf7a6dd94477fad00eaacf938ee3
+      internalID: -7917000771732312961
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SciFi-Tiles16x16_241
+      rect:
+        serializedVersion: 2
+        x: 16
+        y: 0
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b3758a4df8e2f440d8ccab89bc9fe409
+      internalID: 3276442965426869158
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SciFi-Tiles16x16_242
+      rect:
+        serializedVersion: 2
+        x: 32
+        y: 0
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 61c6bb705037243d09eb635cf67904cf
+      internalID: 6099424232878547944
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SciFi-Tiles16x16_243
+      rect:
+        serializedVersion: 2
+        x: 48
+        y: 0
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5ee256843732a44adb24f95028ec3455
+      internalID: -4731854988186299753
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SciFi-Tiles16x16_244
+      rect:
+        serializedVersion: 2
+        x: 64
+        y: 0
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3b61ec91a0fb646999538ccf2e02e567
+      internalID: -4556572065338514757
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SciFi-Tiles16x16_245
+      rect:
+        serializedVersion: 2
+        x: 80
+        y: 0
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ea7a7cc38803c4c04b6348ab6784989a
+      internalID: 2537979665724730605
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SciFi-Tiles16x16_246
+      rect:
+        serializedVersion: 2
+        x: 96
+        y: 0
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c83e49f635c9644aca31bb5b3c41e60f
+      internalID: -7618673909185822169
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SciFi-Tiles16x16_247
+      rect:
+        serializedVersion: 2
+        x: 112
+        y: 0
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b6a942f0402d4485f90afc9a2a18bf4d
+      internalID: 1322237511773698702
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SciFi-Tiles16x16_248
+      rect:
+        serializedVersion: 2
+        x: 128
+        y: 0
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f13ac3daa2cca414b9708fb28a2f7b83
+      internalID: 8155798221237559582
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SciFi-Tiles16x16_249
+      rect:
+        serializedVersion: 2
+        x: 144
+        y: 0
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4f6b82fa6cca6443f85651daaa5a1d56
+      internalID: 1115005887593916383
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SciFi-Tiles16x16_250
+      rect:
+        serializedVersion: 2
+        x: 160
+        y: 0
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3c5c9b19204e6407cb870b307814ef51
+      internalID: -6192722309835036986
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SciFi-Tiles16x16_251
+      rect:
+        serializedVersion: 2
+        x: 176
+        y: 0
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: caef84bf4ead84f3190992be82a1ce3a
+      internalID: 128533930822360389
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SciFi-Tiles16x16_252
+      rect:
+        serializedVersion: 2
+        x: 192
+        y: 0
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e37abd7d6d68f45ca86c63ae40e4721d
+      internalID: 1845502757074278711
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SciFi-Tiles16x16_253
+      rect:
+        serializedVersion: 2
+        x: 208
+        y: 0
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6c41fb3fa12e84a22af7cb24eec9f671
+      internalID: -4356608783858794313
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SciFi-Tiles16x16_254
+      rect:
+        serializedVersion: 2
+        x: 224
+        y: 0
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: df7e0323134a04aac8c377931703ded1
+      internalID: 8619803050869153864
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SciFi-Tiles16x16_255
+      rect:
+        serializedVersion: 2
+        x: 240
+        y: 0
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 42a7cef4b45694c239a7d0590cc3ee49
+      internalID: -1350167629766865125
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SciFi-Tiles16x16_256
+      rect:
+        serializedVersion: 2
+        x: 256
+        y: 0
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f5021644de6a44204a85782f1befdae8
+      internalID: 9092027481876418716
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SciFi-Tiles16x16_257
+      rect:
+        serializedVersion: 2
+        x: 272
+        y: 0
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4eda65910082543688f2fadf527c7d71
+      internalID: -777851674933897602
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    physicsShape: []
+    bones: []
+    spriteID: 5e97eb03825dee720800000000000000
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+  spritePackingTag: 
+  pSDRemoveMatte: 0
+  pSDShowRemoveMatteOption: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

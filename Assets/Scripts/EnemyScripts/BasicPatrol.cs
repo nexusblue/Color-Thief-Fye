@@ -5,14 +5,10 @@ using UnityEngine;
 public class BasicPatrol : MonoBehaviour{
 
     public float patrolSpeed;
-    public float distance;
-
-    public Transform groundDetect;
-
     public Transform[] patrolSpots;
-    private int randomSpot;
-    private float waitTime;
     public float startTime;
+    private float waitTime;
+    private int randomSpot;
 
     private void Start(){
         waitTime = startTime;

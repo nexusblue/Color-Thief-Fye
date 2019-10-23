@@ -3,12 +3,14 @@ using System.Collections.Generic;
 using UnityEngine;
 using UnityEngine.SceneManagement;
 using TMPro;
+using UnityEngine.UI;
 
 public class ColorCheck : MonoBehaviour {
 
     //Create health and stealth values 
     float health = 100;
     float stealth;
+    public Slider stealthSlider;
 
     public float healthRate = 1f;
     //Track player color and stealth text
@@ -22,6 +24,7 @@ public class ColorCheck : MonoBehaviour {
         //set stealth value and player color to sprite render
         stealth = stealthStart;
         playerColor = GetComponent<SpriteRenderer>().color;
+        stealthSlider.value = 100;
     }
 
 
@@ -33,6 +36,8 @@ public class ColorCheck : MonoBehaviour {
         if (stealth <= 0) {
             SceneManager.LoadScene(currentLvl);
         }
+        stealthSlider.value = stealth;
+
     }
 
     private void OnTriggerStay2D(Collider2D collision){
@@ -60,8 +65,7 @@ public class ColorCheck : MonoBehaviour {
         //if player color != laser color
         GameObject spotlight = collision.gameObject;
         Color spotlightColor = spotlight.GetComponent<SpriteRenderer>().color;
-        if (collision.tag == "Spotlight" && !spotlightColor.Equals(playerColor))
-        {
+        if (collision.tag == "Spotlight" && !spotlightColor.Equals(playerColor)){
             stealth = (stealth - (stealthRate * Time.deltaTime));
         }
     }

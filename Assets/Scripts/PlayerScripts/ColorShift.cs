@@ -6,9 +6,9 @@ public class ColorShift : MonoBehaviour
 {
     // get the players sprite
     public SpriteRenderer playerColor;
-    public Color blue = new Color( 102,102,255) ;
-    public Color red = new Color(252, 102, 102);
-    public Color yellow = new Color(255, 255, 102);
+    public Color blue = new Color( 102,102,255,0.75f) ;
+    public Color red = new Color(252, 102, 102, 0.75f);
+    public Color yellow = new Color(255, 255, 102, 0.75f);
     //public Color playerColorNew ;
     //public Color green = new Color(102, 255, 102); 
 

@@ -542,6 +542,7 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: d10297aaac4124162bbd5b51ad569702, type: 3}
   m_Name: 
   m_EditorClassIdentifier: 
+  stealthSlider: {fileID: 0}
   healthRate: 100
   stealthRate: 3.5
   stealthLvl: {fileID: 0}

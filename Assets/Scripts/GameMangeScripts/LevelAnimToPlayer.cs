@@ -11,6 +11,6 @@ public class LevelAnimToPlayer : MonoBehaviour
     void Update()
     {
         Vector2 namePos = Camera.main.WorldToScreenPoint(this.transform.position);
-        transitionPos.transform.position = namePos;
+        //transitionPos.transform.position = namePos;
     }
 }

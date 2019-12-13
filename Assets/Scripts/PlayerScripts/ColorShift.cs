@@ -30,7 +30,7 @@ public class ColorShift : MonoBehaviour
 
     private void ColorShiftFoward(){
         // switch case to check to for color code and which to switch to
-        if ((Input.GetKeyDown(KeyCode.J) || Input.GetButtonDown("ColorShiftNext"))){
+        if ((Input.GetKeyDown(KeyCode.L) || Input.GetButtonDown("ColorShiftNext"))){
             switch (colorCode){
                 /*
                 case 0:
@@ -56,36 +56,10 @@ public class ColorShift : MonoBehaviour
             }
             SoundManager.playColorShift();
         }
-        //Shift color backward
-        if ((Input.GetKeyDown(KeyCode.K) || Input.GetButtonDown("ColorShiftPrev"))){
-            switch (colorCode){
-                case 1:
-                    playerColor.color = red;
-                    trailColor.material.color = red;
-                    colorCode = 3;
-                    break;
-                case 2:
-                    playerColor.color = blue;
-                    trailColor.material.color = blue;
-                    colorCode = 1;
-                    break;
-                case 3:
-                    playerColor.color = yellow;
-                    trailColor.material.color = yellow;
-                    colorCode = 2;
-                    break;
-            }
-            SoundManager.playColorShift();
 
-        }
     }
 
 }
 
 
-/*
-case 3:
-playerColor.color = green;
-trailColor.material.color = green;
-colorCode = 4;
-break;*/
+

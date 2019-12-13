@@ -76,7 +76,7 @@ public class PlayerMovement : MonoBehaviour
         //set dash timer to reset after key press
         dashTimer -= Time.deltaTime;
         //check if able to dash/ play dash sound and reset time until next dash 
-        if (( Input.GetKeyDown(KeyCode.RightShift) || Input.GetButtonDown("Dash")) && Input.GetAxisRaw("Horizontal")!= 0 && dashTimer <= 0  )  {
+        if (( Input.GetKeyDown(KeyCode.J) || Input.GetButtonDown("Dash")) && Input.GetAxisRaw("Horizontal")!= 0 && dashTimer <= 0  )  {
             dashTimer = dashCoolDown;
             StartCoroutine(TurnOnDash());
             rb.velocity = Vector2.right * dashMultiplier * Input.GetAxisRaw("Horizontal");
@@ -86,10 +86,8 @@ public class PlayerMovement : MonoBehaviour
 
     private void Attacking(){
         atkTimer -= Time.deltaTime;
-        if ((Input.GetKeyDown(KeyCode.L) || Input.GetButtonDown("Slashing")) && atkTimer <= 0){
+        if ((Input.GetKeyDown(KeyCode.K) || Input.GetButtonDown("Slashing")) && atkTimer <= 0){
             StartCoroutine(Attack());
-            SoundManager.playSwordSlash();
-
         }
     }
 
@@ -109,6 +107,7 @@ public class PlayerMovement : MonoBehaviour
         yield return new WaitForSeconds(atkbtwTime);
         AttackCollider.SetActive(true);
         anim.SetBool("Attacking", true);
+        SoundManager.playSwordSlash();
         atkTimer = atkbtwTime; 
 
         yield return new WaitForSeconds(atkbtwTime);

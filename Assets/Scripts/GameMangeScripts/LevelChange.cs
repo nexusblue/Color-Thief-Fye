@@ -17,6 +17,7 @@ public class LevelChange : MonoBehaviour
         if (collision.tag == "Player"){
             Debug.Log("player collided");
             StartCoroutine(NextLevelTransition());
+            GameObject.Find("Fye").GetComponent<CharacterController2D>().enabled = false;
         }
     }
 

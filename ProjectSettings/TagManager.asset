@@ -10,6 +10,7 @@ TagManager:
   - Spotlight
   - Laser
   - Collectable
+  - Exit
   layers:
   - Default
   - TransparentFX

@@ -22,6 +22,9 @@ public class CharacterController2D : MonoBehaviour
     private int extraJumps;
     public int extraJumpValue;
 
+    public int sceneIndex;
+    public Animator anim;
+
     [Header("Events")]
 	[Space]
 
@@ -145,8 +148,7 @@ public class CharacterController2D : MonoBehaviour
     }
 
 
-	private void Flip()
-	{
+	private void Flip(){
 		// Switch the way the player is labelled as facing.
 		m_FacingRight = !m_FacingRight;
 
@@ -155,4 +157,6 @@ public class CharacterController2D : MonoBehaviour
 		theScale.x *= -1;
 		transform.localScale = theScale;
 	}
+
+
 }

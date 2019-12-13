@@ -19,6 +19,8 @@ public class SoundManager : MonoBehaviour
     public static AudioClip collectSound;
     static AudioSource collectSrc;
 
+
+
     // Start is called before the first frame update
     void Start()
     {
@@ -36,6 +38,9 @@ public class SoundManager : MonoBehaviour
 
         collectSound = Resources.Load<AudioClip>("CollectSound");
         collectSrc = GetComponent<AudioSource>();
+
+        AudioSource SwordDelay = GetComponent<AudioSource>();
+
     }
 
     public static void playColorShift()
@@ -51,6 +56,8 @@ public class SoundManager : MonoBehaviour
     public static void playSwordSlash()
     {
         swordSrc.PlayOneShot(swordSound);
+        swordSrc.PlayDelayed(.5f);
+
     }
     public static void playJumpYell()
     {

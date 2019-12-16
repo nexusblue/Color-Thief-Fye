@@ -89,6 +89,7 @@ public class PlayerMovement : MonoBehaviour
         if ((Input.GetKeyDown(KeyCode.K) || Input.GetButtonDown("Slashing")) && atkTimer <= 0){
             StartCoroutine(Attack());
         }
+
     }
 
     //Check for landing or crouching 
@@ -113,6 +114,7 @@ public class PlayerMovement : MonoBehaviour
         yield return new WaitForSeconds(atkbtwTime);
         anim.SetBool("Attacking", false);
         AttackCollider.SetActive(false);
+
     }
 
     // cool down time to next dash time

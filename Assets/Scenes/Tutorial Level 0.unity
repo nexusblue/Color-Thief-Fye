@@ -45640,6 +45640,11 @@ PrefabInstance:
       propertyPath: m_FlipX
       value: 1
       objectReference: {fileID: 0}
+    - target: {fileID: 6879885552373643872, guid: c59403d52a609417cb19efa1fff3ec21,
+        type: 3}
+      propertyPath: m_Controller
+      value: 
+      objectReference: {fileID: 9100000, guid: a598bc4b47311496eb3d434df7ad28c6, type: 2}
     - target: {fileID: 6879885552373643885, guid: c59403d52a609417cb19efa1fff3ec21,
         type: 3}
       propertyPath: m_Enabled
@@ -73669,6 +73674,11 @@ PrefabInstance:
       propertyPath: m_Color.b
       value: 1
       objectReference: {fileID: 0}
+    - target: {fileID: 6879885552373643872, guid: c59403d52a609417cb19efa1fff3ec21,
+        type: 3}
+      propertyPath: m_Controller
+      value: 
+      objectReference: {fileID: 9100000, guid: a598bc4b47311496eb3d434df7ad28c6, type: 2}
     - target: {fileID: 6879885552373643886, guid: c59403d52a609417cb19efa1fff3ec21,
         type: 3}
       propertyPath: m_IsTrigger

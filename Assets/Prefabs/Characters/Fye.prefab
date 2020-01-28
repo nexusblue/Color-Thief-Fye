@@ -237,7 +237,7 @@ SpriteRenderer:
   m_LightmapParameters: {fileID: 0}
   m_SortingLayerID: 0
   m_SortingLayer: 0
-  m_SortingOrder: 6
+  m_SortingOrder: 7
   m_Sprite: {fileID: 21300218, guid: b18e86e2c76c041acbd8c8386b8607e6, type: 3}
   m_Color: {r: 1, g: 1, b: 1, a: 1}
   m_FlipX: 0
@@ -267,7 +267,7 @@ Rigidbody2D:
   m_GravityScale: 1.7
   m_Material: {fileID: 6200000, guid: 9ba9612cd6a2d4205b814c895b26d127, type: 2}
   m_Interpolate: 0
-  m_SleepingMode: 1
+  m_SleepingMode: 0
   m_CollisionDetection: 1
   m_Constraints: 4
 --- !u!61 &1296814559479313663
@@ -350,7 +350,7 @@ TrailRenderer:
   m_LightmapParameters: {fileID: 0}
   m_SortingLayerID: 0
   m_SortingLayer: 0
-  m_SortingOrder: 5
+  m_SortingOrder: 6
   m_Time: 0.5
   m_Parameters:
     serializedVersion: 3
@@ -459,6 +459,8 @@ MonoBehaviour:
   m_CeilingCheck: {fileID: 1296814559391214453}
   m_CrouchDisableCollider: {fileID: 1296814559479313663}
   extraJumpValue: 1
+  sceneIndex: 0
+  anim: {fileID: 0}
   OnLandEvent:
     m_PersistentCalls:
       m_Calls:
@@ -510,7 +512,7 @@ MonoBehaviour:
   dashMultiplier: 100
   dashCoolDown: 0.66
   atkCoolDown: 0.66
-  atkbtwTime: 0.15
+  atkbtwTime: 0.05
   startUpPlayer: 0.125
   AttackCollider: {fileID: 5693025852684292325}
 --- !u!114 &1583618021

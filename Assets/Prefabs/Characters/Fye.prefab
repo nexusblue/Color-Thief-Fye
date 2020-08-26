@@ -508,7 +508,7 @@ MonoBehaviour:
   controler: {fileID: 1296814559479313662}
   anim: {fileID: 1296814559479313659}
   speedLines: {fileID: 2070170864}
-  runSpeed: 100
+  runSpeed: 130
   dashMultiplier: 100
   dashCoolDown: 0.66
   atkCoolDown: 0.66
@@ -548,7 +548,7 @@ MonoBehaviour:
   healthRate: 100
   stealthRate: 3.5
   stealthLvl: {fileID: 0}
-  currentLvl: 1
+  currentLvl: 3
 --- !u!1 &1296814560357795339
 GameObject:
   m_ObjectHideFlags: 0
@@ -640,7 +640,7 @@ Camera:
   far clip plane: 1000
   field of view: 60
   orthographic: 1
-  orthographic size: 6
+  orthographic size: 8
   m_Depth: -1
   m_CullingMask:
     serializedVersion: 2

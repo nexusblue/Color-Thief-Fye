@@ -30,7 +30,7 @@ public class ColorShift : MonoBehaviour
 
     private void ColorShiftFoward(){
         // switch case to check to for color code and which to switch to
-        if ((Input.GetKeyDown(KeyCode.L) || Input.GetButtonDown("ColorShiftNext"))){
+        if ((Input.GetKeyDown(KeyCode.K) || Input.GetButtonDown("ColorShiftNext"))){
             switch (colorCode){
                 /*
                 case 0:

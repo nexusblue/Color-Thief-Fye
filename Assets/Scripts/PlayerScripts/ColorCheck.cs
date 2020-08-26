@@ -44,6 +44,7 @@ public class ColorCheck : MonoBehaviour {
         CheckForLaser(collision);
         CheckForSpotLight(collision);
         CheckForEnemy(collision);
+        //CheckForColorPlatform(collision);
     }
 
     private void CheckForLaser(Collider2D collision){
@@ -86,4 +87,22 @@ public class ColorCheck : MonoBehaviour {
         }
     }
 
+    private void CheckForColorPlatform(Collider2D collision)
+    {
+        //check for lasers and disable collider
+        //if player color == laser color and vice versa
+        GameObject Platform = collision.gameObject;
+        Collider2D PlatformCollider = Platform.GetComponent<BoxCollider2D>();
+        Color PlatformColor = Platform.GetComponent<SpriteRenderer>().color;
+        if (collision.tag == "Colorplatform" && PlatformColor.Equals(playerColor) && PlatformCollider.enabled)
+        {
+            Debug.Log("touching red wall");
+            PlatformCollider.enabled = !PlatformCollider.enabled;
+        }
+        if (collision.tag == "Colorplatform" && !PlatformColor.Equals(playerColor) && !PlatformCollider.enabled)
+        {
+            Debug.Log("touching red wall x");
+            PlatformCollider.enabled = !PlatformCollider.enabled;
+        }
+    }
 }

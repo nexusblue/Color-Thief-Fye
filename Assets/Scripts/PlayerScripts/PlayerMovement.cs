@@ -86,7 +86,7 @@ public class PlayerMovement : MonoBehaviour
 
     private void Attacking(){
         atkTimer -= Time.deltaTime;
-        if ((Input.GetKeyDown(KeyCode.K) || Input.GetButtonDown("Slashing")) && atkTimer <= 0){
+        if ((Input.GetKeyDown(KeyCode.L) || Input.GetButtonDown("Slashing")) && atkTimer <= 0){
             StartCoroutine(Attack());
         }
 
